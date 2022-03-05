@@ -1,5 +1,9 @@
-# SQL
+---
+title: 'SQL Diary 01'
+draft: false
+---
 
+## My SQL Diary 01 - The Basics
 
 
 ### Select from Catalog
@@ -25,6 +29,7 @@ you want to see the system tables as well.
 The DISTINCT clause will list -- as it's said
  -- distinct values from a column on a table.
 
+Syntax:
 ```SQL
 SELECT DISTINCT searched_value FROM table_name;
 ```
@@ -39,7 +44,7 @@ powerful. The WHERE clause can be used to specify
 where to use, for example, the COUNT query;
 
 An example of using the two to find the number of G rated
-movies in a table of films rented;
+movies in a table of films rented:
 
 ```SQL
 SELECT COUNT(rating) FROM film WHERE(rating = 'G');
@@ -50,9 +55,11 @@ ones used in programming; =, >, <, >=, <=, != or <>,
 AND, OR, NOT. Very intuitive if you know a bit of programming
 logic.
 
-
+Another example, this time looking for a customer's email
+address, using their name:
 
 ```SQL
-
-```
-
+SELECT email FROM customer
+WHERE first_name = 'Peter'
+AND last_name = 'Parker';
+```SQL
