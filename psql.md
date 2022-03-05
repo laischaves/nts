@@ -63,3 +63,21 @@ SELECT email FROM customer
 WHERE first_name = 'Peter'
 AND last_name = 'Parker';
 ```SQL
+
+#### ORDER BY
+
+This command will sort and order rows -- ascending or 
+descending -- based on column value*. It can be used
+with more than a column as the based value for ordering.
+
+Example ordering movies by rating and title, ascending:
+
+```SQL
+SELECT title, rating
+FROM film
+ORDER BY rating, title ASC;
+```
+
+* The column used for sorting does not have to be 
+previously selected, but it makes things easier
+to understand and visualize.
