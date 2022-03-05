@@ -62,7 +62,7 @@ address, using their name:
 SELECT email FROM customer
 WHERE first_name = 'Peter'
 AND last_name = 'Parker';
-```SQL
+```
 
 #### ORDER BY
 
