@@ -81,3 +81,36 @@ ORDER BY rating, title ASC;
 * The column used for sorting does not have to be 
 previously selected, but it makes things easier
 to understand and visualize.
+
+---
+
+---
+title: 'SQL Diary 02'
+date: 2022-03-06T11:00:39-03:00
+draft: false
+---
+
+## My SQL Diary 02 - The Basics
+
+#### LIMIT
+
+The LIMIT command is simple, it limits your query by a specified
+number value -- defined by you -- and it can be specially useful
+for large tables, when you don't necessary need all of the data.
+
+An example would be a query to know the 5 highest payed actors
+of the year:
+
+```SQL
+SELECT * FROM payment
+ORDER BY year_earning DESC
+LIMIT 5;
+```
+
+
+
+
+
+
+
+
