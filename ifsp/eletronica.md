@@ -15,14 +15,14 @@
         do sinal;
 
 - um **amplificador** é um _conjunto_ de componentes e circuitos que efetuam
-        a amplificação do sinal;
+amplificação do sinal;
 
 - _altos fatores_ de amplificação podem ser atingidos com o uso de multiplos
-        amplificadores ou _estágios amplificadores_, que trabalham de forma **sucessiva**;
+amplificadores ou _estágios amplificadores_, que trabalham de forma **sucessiva**;
 
 - a _qualidade_ do sinal pode cair ao longo do processo de amplificação;
-        recursos como _filtros_, podem e são utilizados para reduzir essas quedas na
-        qualidade do sinal;
+como _filtros_, podem e são utilizados para reduzir essas quedas na
+do sinal;
 
 - amplificadores:
         - pequeno sinal ($\mu V$ to $mV$)
