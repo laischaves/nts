@@ -39,3 +39,27 @@ apenas do sistema. _Tende a 0 ou oscila_.
 **[2]** Depende da entrada;
 **[3]** A resposta transistória também equivale à soma entre natural
 e forçada enquanto a total é muito grande.
+
+
+**Figura 1 Processo de projeto de sistema de controle:**
+
+![figura 1.11 do livro](./images/model_fig_001_processo.png)
+
+
+## Mechanical Systems
+Elements of mechanical systems:
+- Mass
+- Inertia
+- Spring
+
+
+![[Pasted image 20220423155211.png]]![[Pasted image 20220423155240.png]]![[Pasted image 20220423155259.png]]
+
+
+
+
+
+
+
+
+
