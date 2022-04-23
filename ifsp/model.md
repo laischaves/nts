@@ -47,19 +47,53 @@ e forçada enquanto a total é muito grande.
 
 
 ## Mechanical Systems
-Elements of mechanical systems:
-- Mass
-- Inertia
-- Spring
+### Elements of mechanical systems:
+- **Mass**
+- **Inertia**
+> $$\sum{F=ma} \rightarrow f(x)=m\cdot \ddot{x}$$ or 
+> $$f(x)=m\frac{d^2 x}{dt^2}$$
+> For the torque function, for $\theta =$ angular position and $J=$ moment of inertia:
+> $$\sum\tau = J \alpha \rightarrow \tau(t)=J\ddot{\theta}$$
+> > ![[model_fig_002_element.png]]
+
+- **Springs**
+> For a linear spring, with $k=$ stiffness constant, $x=$ position:
+> $$f(t)=k(x_2 - x_1)$$
+> For rotating spring, with $k=$ stiffness constant, $\theta=$ angular position:
+> $$\tau(t)=k(\theta_2 -\theta_1)$$
+> > ![[model_fig_003_element.png]]
+- **Viscous Dampers**
+> Viscous dampers depend on the speed of both ends, with $b$ as the viscous constant:
+> $$f(t)=b(\dot{x}_2 - \dot{x}_1)$$
+> $$\tau(t)=b(\dot{\theta}_2-\dot{\theta}_1)$$
+> > ![[model_fig_004_element.png]]
+
+#### Example
+
+![[model_fig_005_example.png]]
+
+Definitions:
+$x=$ displacement; $\dot{x}=$ speed; $\ddot{x}=$ acceleration
+$\sum{F=m\ddot{x}}$
+Considering down to be $+\downarrow$ positive:
+$$F(t)-b\dot{x}-k{x}=m\ddot{x}$$
+Given that
+$F(t) =$ force downwards on the mass
+$-b\dot{x}=$ viscous damper force
+$-kx=$ spring force
+$m\ddot{x}=$ the  sum of the forces given by Newton's law
 
 
-![[Pasted image 20220423155211.png]]![[Pasted image 20220423155240.png]]![[Pasted image 20220423155259.png]]
-
-
-
-
-
-
-
-
+## Electrical Systems
+### Elements of Electrical Systems
+- Resistors
+	no inductance or capacitance
+	voltage drop: $v = v_1 - v_2 = RI$
+- Capacitors
+	no resistance or inductance
+	$v = v_1 - v_2 = \frac{1}{C}\int{idt}\rightarrow i=C{(\frac{dv}{dt})}$
+- Inductors
+	no resistance or capacitance
+	$v = v_1 - v_2 = L\frac{di}{dt} \rightarrow i = \frac{1}{L}\int{vdt}$ 
+![[model_fig_006_element.png]]
 
