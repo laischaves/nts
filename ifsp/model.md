@@ -95,6 +95,9 @@ $m\ddot{x}=$ the  sum of the forces given by Newton's law
 - Inductors
 	no resistance or capacitance
 	$v = v_1 - v_2 = L\frac{di}{dt} \rightarrow i = \frac{1}{L}\int{vdt}$ 
-![[model_fig_006_element.png]]
+> > ![[model_fig_006_element.png]]
 
 ![[model_fig_007_comparison.png]]
+![[model_fig_008_analogy.png]]
+
+## Laplace Transform
