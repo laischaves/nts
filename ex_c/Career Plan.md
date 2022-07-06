@@ -268,7 +268,7 @@ You will be working in our state-of-the-art Gigafactory where you’ll solve the
  ---
 ## For the next 3 months
 - [ ] SQL
-- [ ] Power BI
+- [x] Power BI
 - [ ] Dynamic Modelling
 
 ---
