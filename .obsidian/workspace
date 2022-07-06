@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "5a61585aa3807249",
+    "type": "split",
+    "children": [
+      {
+        "id": "8310ce9a292f1342",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202206281627.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eba524d11f517b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d66aa2bb751229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb0788a51943d26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "34546209ab9907c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hugo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee2df2a5daa704ad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "dd6a9c56cfade9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "77436d51f73e5316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0279e0c3e9f4fb58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202206281627.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ace37f6ec080f02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202206281627.md"
+              }
+            }
+          },
+          {
+            "id": "c1a34e150956b409",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "288b2ed3c9632ec8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "8310ce9a292f1342",
+  "lastOpenFiles": [
+    "202206281627.md",
+    "nts/ex_c/Kanban.md",
+    "nts/ifsp/P.U..md",
+    "nts/ifsp/00_Electricity.md",
+    "nts/ifsp/00_Digital Systems and Electronics.md",
+    "nts/ifsp/00_Calculus.md",
+    "nts/ifsp/MOS.md",
+    "nts/ifsp/Circuit_Analysis.md",
+    "nts/ifsp/circuit_cheat_sheet.pdf",
+    "nts/ifsp/Digital Systems.md"
+  ]
+}
