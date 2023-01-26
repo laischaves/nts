@@ -1,12 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "202206281627",
-      "path": "202206281627.md"
+      "basename": "Home",
+      "path": "nts/Home.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "robotics_01_aerial_robotics",
+      "path": "ex_c/robotics_01_aerial_robotics.md"
+    },
+    {
+      "basename": "SQL Cheat Sheet",
+      "path": "ex_c/SQL Cheat Sheet.md"
+    },
+    {
+      "basename": "psql",
+      "path": "ex_c/psql.md"
+    },
+    {
+      "basename": "My Power BI Notes",
+      "path": "ex_c/My Power BI Notes.md"
+    },
+    {
+      "basename": "Blockchain",
+      "path": "ex_c/Blockchain.md"
+    },
+    {
+      "basename": "Career Plan",
+      "path": "ex_c/Career Plan.md"
+    },
+    {
+      "basename": "Automation",
+      "path": "ifsp/Automation.md"
+    },
+    {
+      "basename": "Limits",
+      "path": "ifsp/Limits.md"
+    },
+    {
+      "basename": "quine_mccluskey_algorithm",
+      "path": "ifsp/quine_mccluskey_algorithm.md"
+    },
+    {
+      "basename": "Quine-McCluskey Algorithm",
+      "path": "ifsp/Quine-McCluskey Algorithm.md"
+    },
+    {
+      "basename": "Thermodynamics",
+      "path": "ifsp/Thermodynamics.md"
+    },
+    {
+      "basename": "Power Electronics",
+      "path": "ifsp/Power Electronics.md"
+    },
+    {
+      "basename": "P.U.",
+      "path": "ifsp/P.U..md"
+    },
+    {
+      "basename": "MOS",
+      "path": "ifsp/MOS.md"
+    },
+    {
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
+    },
+    {
+      "basename": "00_Electricity",
+      "path": "ifsp/00_Electricity.md"
+    },
+    {
+      "basename": "Circuit_Analysis",
+      "path": "ifsp/Circuit_Analysis.md"
+    },
+    {
+      "basename": "00_Digital Systems and Electronics",
+      "path": "ifsp/00_Digital Systems and Electronics.md"
+    },
+    {
+      "basename": "00_Calculus",
+      "path": "ifsp/00_Calculus.md"
+    },
+    {
+      "basename": "INSEL",
+      "path": "ifsp/INSEL.md"
+    },
+    {
+      "basename": "robotics_01_aerial_robotics",
+      "path": "ex_c/penn_robotics/robotics_01_aerial_robotics.md"
+    },
+    {
+      "basename": "Networks",
+      "path": "ex_c/Networks.md"
+    },
+    {
+      "basename": "eletronica",
+      "path": "ifsp/eletronica.md"
+    },
+    {
+      "basename": "java_tim_tutorial",
+      "path": "ex_c/java_tim_tutorial.md"
+    },
+    {
+      "basename": "Integrals",
+      "path": "ifsp/Integrals.md"
+    },
+    {
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
     },
     {
       "basename": "Kanban",
-      "path": "nts/ex_c/Kanban.md"
+      "path": "ex_c/Kanban.md"
+    },
+    {
+      "basename": "LCon_1",
+      "path": "ifsp/LCon_1.md"
+    },
+    {
+      "basename": "Digital Systems",
+      "path": "ifsp/Digital Systems.md"
+    },
+    {
+      "basename": "microcontrollers",
+      "path": "ifsp/microcontrollers.md"
+    },
+    {
+      "basename": "Máquinas Elétricas e Conversão de Energia",
+      "path": "ifsp/Máquinas Elétricas e Conversão de Energia.md"
+    },
+    {
+      "basename": "202206281627",
+      "path": "202206281627.md"
     },
     {
       "basename": "P.U.",
@@ -67,26 +199,6 @@
     {
       "basename": "Máquinas Elétricas e Conversão de Energia",
       "path": "nts/ifsp/Máquinas Elétricas e Conversão de Energia.md"
-    },
-    {
-      "basename": "StudyPlan",
-      "path": "nts/ex_c/StudyPlan.md"
-    },
-    {
-      "basename": "Networks",
-      "path": "nts/ex_c/Networks.md"
-    },
-    {
-      "basename": "Career Plan",
-      "path": "nts/ex_c/Career Plan.md"
-    },
-    {
-      "basename": "robotics_01_aerial_robotics",
-      "path": "nts/ex_c/penn_robotics/robotics_01_aerial_robotics.md"
-    },
-    {
-      "basename": "README",
-      "path": "nts/README.md"
     }
   ],
   "omittedPaths": [],

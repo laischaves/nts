@@ -27,3 +27,7 @@ $$\int ln x dx = x ln(x) - x + C$$
 $$\int \cos x dx = \sin x + C$$
 $$\int \sin x dx = - \cos x + C$$
 
+
+#fazer 
+- [x] Lista de integral
+- [x] exercicios do livro

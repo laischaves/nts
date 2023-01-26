@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8310ce9a292f1342",
+        "id": "6b711045b758b7cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202206281627.md",
+            "file": "nts/Home.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202206281627.md",
+                "file": "nts/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,16 +94,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202206281627.md"
+                "file": "nts/Home.md"
               }
-            }
-          },
-          {
-            "id": "c1a34e150956b409",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           },
           {
@@ -113,26 +105,41 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f819655fb0378f31",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d597ecdcd9e27cf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 263.2735900878906
   },
-  "active": "8310ce9a292f1342",
+  "active": "6b711045b758b7cb",
   "lastOpenFiles": [
-    "202206281627.md",
-    "nts/ex_c/Kanban.md",
-    "nts/ifsp/P.U..md",
-    "nts/ifsp/00_Electricity.md",
-    "nts/ifsp/00_Digital Systems and Electronics.md",
-    "nts/ifsp/00_Calculus.md",
-    "nts/ifsp/MOS.md",
-    "nts/ifsp/Circuit_Analysis.md",
-    "nts/ifsp/circuit_cheat_sheet.pdf",
-    "nts/ifsp/Digital Systems.md"
+    "Home.md",
+    "README.md",
+    "ex_c/robotics_01_aerial_robotics.md",
+    "ex_c/SQL Cheat Sheet.md",
+    "ex_c/psql.md",
+    "ex_c/My Power BI Notes.md",
+    "ex_c/Blockchain.md",
+    "ex_c/Career Plan.md",
+    "ifsp/Automation.md",
+    "ifsp/Limits.md"
   ]
 }

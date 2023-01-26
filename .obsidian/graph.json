@@ -1,30 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "path:nts",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:nts/ifsp",
-      "color": {
-        "a": 1,
-        "rgb": 5362265
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.1288987480248,
-  "lineSizeMultiplier": 1.56726024067096,
+  "nodeSizeMultiplier": 1.37847449695835,
+  "lineSizeMultiplier": 1.52590332267752,
   "collapse-forces": false,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.2386480645991458,
-  "close": true
+  "scale": 0.8529420324144804,
+  "close": false
 }
