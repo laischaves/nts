@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "5a61585aa3807249",
+    "type": "split",
+    "children": [
+      {
+        "id": "045b031fe1e09029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad612b94a8a2711",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0468b1307903010",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eba524d11f517b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d66aa2bb751229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb0788a51943d26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34546209ab9907c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hugo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee2df2a5daa704ad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "dd6a9c56cfade9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "77436d51f73e5316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0279e0c3e9f4fb58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nts/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ace37f6ec080f02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nts/Home.md"
+              }
+            }
+          },
+          {
+            "id": "288b2ed3c9632ec8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f819655fb0378f31",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d597ecdcd9e27cf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.2735900878906
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "b0468b1307903010",
+  "lastOpenFiles": [
+    "Home.md",
+    "README.md",
+    "ex_c/robotics_01_aerial_robotics.md",
+    "ex_c/SQL Cheat Sheet.md",
+    "ex_c/psql.md",
+    "ex_c/My Power BI Notes.md",
+    "ex_c/Blockchain.md",
+    "ex_c/Career Plan.md",
+    "ifsp/Automation.md",
+    "ifsp/Limits.md"
+  ]
+}
