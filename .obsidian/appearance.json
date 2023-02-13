@@ -3,5 +3,6 @@
   "cssTheme": "Primary",
   "textFontFamily": "",
   "baseFontSize": 23,
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
