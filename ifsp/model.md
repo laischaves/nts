@@ -1,6 +1,45 @@
 # Modelagem de Sistemas
 
-## Definições Iniciais
+---
+moodle: 2023model
+$$MF = \frac{(P1(\text{10 de maio})+P2(\text{14 de junho}))}{2}$$
+we gon have problem sheets for practice, may be a turning point at the end
+
+### Review
+- [ ] Physical laws -> must know by heart
+	Scope of this course: Mechanical, electrical, termal and fluid systems.
+	Newton laws, Kirchhoff laws, Energy conservation laws, mass conservation laws.
+- [ ] Calculus 
+	algebraic manipulation
+	laplace transform
+	dominiums: time, laplace, frequency
+---
+
+
+## Definitions
+
+**System**: group of components built in a way to perform a task.
+
+**Dynamic**: situation where the behaviour of a _system_ (or its properties)
+change with time.
+
+**SISO**: single input, single output
+
+**MIMO**: multiple input, multiple output
+
+**Linear system**: respects superposition rules (aditividade and homogeneidade)
+
+**Non linear system**: doesn't follow superposition rules
+
+**Instataneous system**: the output depends only on the input at the exact time
+at that moment. It has no memory.
+
+**Dynamic system**: has memory, can store energy. The output depends both on the
+input at that moment plus the previous stored states/inputs.
+
+**Continuous system**: time is continuous =elaborate=
+
+**Discrete system**: time isn't continuous =elaborate=
 
 **Transdutor**: dispositivo de conversão de energiga de uma natureza
 para outra, e.g. microfone, termômetro, etc.
@@ -47,7 +86,9 @@ e forçada enquanto a total é muito grande.
 
 
 ## Mechanical Systems
+
 ### Elements of mechanical systems:
+
 - **Mass**
 - **Inertia**
 > $$\sum{F=ma} \rightarrow f(x)=m\cdot \ddot{x}$$ or 
@@ -85,7 +126,9 @@ $m\ddot{x}=$ the  sum of the forces given by Newton's law
 
 
 ## Electrical Systems
+
 ### Elements of Electrical Systems
+
 - Resistors
 	no inductance or capacitance
 	voltage drop: $v = v_1 - v_2 = RI$
@@ -101,3 +144,4 @@ $m\ddot{x}=$ the  sum of the forces given by Newton's law
 ![[model_fig_008_analogy.png]]
 
 ## Laplace Transform
+
