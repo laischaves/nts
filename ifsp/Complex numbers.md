@@ -32,3 +32,18 @@ With $a$ as the _real_ part and $b$ as the imaginary
 part, or $\Re (z)$
 $$\text{Algebraic form: } z = a + bi$$
 
+**Summation rules**
+Sum/subtract imaginary parts, then real parts:
+$$z=3+4i\space\space|\space\space w=-1+2i$$
+$$z+w= 3+(-1)\space\space + \space\space4i+2i$$
+
+**Multiplication rules**
+Use distributive rules, remember $i^2=-1$:
+Given $z=2+3i$ and $w=3-2i$
+$$z\cdot w = (2+3i)(3-2i)$$
+$$z \cdot w = 6-4i+9i-6i^2 = 6+5i+6 = 12+5i$$
+
+
+
+
+
