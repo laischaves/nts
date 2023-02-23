@@ -39,11 +39,19 @@ $$z+w= 3+(-1)\space\space + \space\space4i+2i$$
 
 **Multiplication rules**
 Use distributive rules, remember $i^2=-1$:
-Given $z=2+3i$ and $w=3-2i$
+
+_Given $z=2+3i$ and $w=3-2i$_
 $$z\cdot w = (2+3i)(3-2i)$$
 $$z \cdot w = 6-4i+9i-6i^2 = 6+5i+6 = 12+5i$$
 
+**Division rules**
+_Complex conjugate_, the number with an equal real part and an imaginary part equal in magnitude put opposite in sign
+$$z=a+bi \rightarrow \overline{z}=a-bi$$
 
+Given $z=2+3i$, calculate $z\cdot\overline{z}$
+$$(2+3i)\cdot(2-3i)=4-6i+6i-9i^2=4-9i^2=4-9(-1)=13$$
 
+Knowing the complex conjugate allows for the following division method:
+$$\frac{z}{w}=\frac{z}{w}\cdot\frac{\overline{w}}{\overline{w}}$$
 
 
