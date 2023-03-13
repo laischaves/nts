@@ -79,10 +79,14 @@ Knowing the complex conjugate allows for the following division method:
 $$\frac{z}{w}=\frac{z}{w}\cdot\frac{\overline{w}}{\overline{w}}$$
 
 **Polar coordinates**
-Considering: $x=r\cos\theta$, $y=r\sin\theta$ and $z=r(\cos\theta + i\sin\theta)$ with $r$ being $r = |z|$
+Considering: $x=r\cos\theta$, $y=r\sin\theta$ and $z=r(\cos\theta + i\sin\theta)$ with $r$ being $r = |z|$, the angle $\theta$ is labeled the _argument_ or _phase_ of $z$
+That's because of the rules of sines and cosines: $\sin\theta=\frac{o}{h}$ and $\cos\theta=\frac{a}{o}$, and, considering an Argand Diagram, we can call $x$ the adjacent side of  the complex number vector, $y$ the opposite side and it's module $|z|=r$ the hipothenuse.
+
+
+
 
 
 
 #### Book
-- Essential Mathematical Methods for Physicists ,page 323
+- Essential Mathematical Methods for Physicists, page 323
 
