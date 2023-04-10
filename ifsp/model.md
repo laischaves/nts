@@ -1,4 +1,14 @@
 # Modelagem de Sistemas
+---
+
+| Sistema  | Resistências       | Capacitâncias                       | Indutâncias                   |
+|----------|--------------------|-------------------------------------|-------------------------------|
+| Elétrico | $E = Ri$           | $E=\frac{1}{C}\int idt$             | $E=L\frac{di}{dt}$            |
+| ---      | ---                | $\frac{1}{\Delta C}$                | $\Delta L$                    |
+| Mecânico | $F = B\dot{x}$     | $F = -k_s x$                        | ---                           |
+| Fluídico | $\Delta P = R_f Q$ | $\Delta P =\frac{1}{C_1}\int Q dt$  | $\Delta P = I_i\frac{dQ}{dt}$ |
+| Térmico  | $\Delta T = R_t q$ | $\Delta T = \frac{1}{C_1}\int q dt$ | ---                           |
+
 
 ---
 moodle: 2023model
@@ -107,7 +117,7 @@ e forçada enquanto a total é muito grande.
 > Viscous dampers depend on the speed of both ends, with $b$ as the viscous constant:
 > $$f(t)=b(\dot{x}_2 - \dot{x}_1)$$
 > $$\tau(t)=b(\dot{\theta}_2-\dot{\theta}_1)$$
-> > ![[model_fig_004_element.png]]
+> > ![[model_fig_004_element.png]]_
 
 #### Example
 
@@ -145,3 +155,29 @@ $m\ddot{x}=$ the  sum of the forces given by Newton's law
 
 ## Laplace Transform
 
+The Laplace Transform is used to change a differential equation from the _time_ (t) domain, to the (s) domain, making it easier to solve algebraicaly.
+
+### The definition
+
+Given that **s** is a complex variable; the systems causal and realizable (which means, it starts at point 0), the transform $\Large\mathcal{L}$ is:
+
+$$F(s) = \int_{0}^{\infty}f(t)\cdot e^{-st}\space dt$$
+$$F(s) = {\mathcal{L}} f(t)$$
+
+**Examples**
+
+**1. Step function**
+$$f(t)=u(t) {\Large{\{}}\space\matrix{1 | 0 \leq t \\ 0 | t < 0}$$
+
+$$F(s)=\int_{0}^{\infty} f(t)\cdot e^{-st}\space dt \space\rightarrow\space \int_{0}^{\infty} 1\cdot e^{-st}\space dt$$
+
+_We consider the function = 1, because we always assume t starting at 0_
+
+$$F(s)=-\frac{1}{s}e^{-s\infty}{\Huge{|}}_{0}^{\infty}$$
+
+$$F(s)=-\frac{1}{s}e^{-s\infty}-(-\frac{1}{s}e^{-s\cdot 0})$$_
+
+Given that:
+$$\matrix{e^{-\infty} = 0 \\ e^{\infty} = \infty}$$
+
+$$F(s) = \frac{1}{s}$$

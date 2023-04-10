@@ -44,21 +44,23 @@ Therefore, $a = \frac{e_1}{e_2} = \frac{n_1}{n_2} = \frac{v_1}{v_2}$
 
 $$\frac{i_1}{i_2}=\frac{1}{a}, \space\space\frac{z_1}{z_2}=a^2$$
 
-
-
+### Lorentz' law and force
+$$\vec{F} = \vec{i} \^ \vec{B}\times\space L$$
 
 
 
 
 
 ## Next class
-- [ ] Equivalent circuits
+- [ ] Solving problems - test review
 
 ## To review
 - [ ] Complex numbers and operations, polar conversions
 - [ ] Impedance ❗
+- [ ] Equivalent circuits
 
 ## Important
 There'll be 2 tests, that's 50% of the final grade +
 the problem lists.
+
 
