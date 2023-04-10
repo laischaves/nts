@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "045b031fe1e09029",
+        "id": "fba5816287dd35f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8ad612b94a8a2711",
+            "id": "7eff28098818537e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0468b1307903010",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "R.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nts/Home.md",
+                "file": "R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -109,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nts/Home.md"
+                "file": "R.md"
               }
             }
           },
@@ -137,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,8 +150,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b0468b1307903010",
+  "active": "7eff28098818537e",
   "lastOpenFiles": [
+    "R.md",
+    "ifsp/Digital Systems.md",
+    "ifsp/CLP.md",
+    "ifsp/00_Calculus.md",
+    "ifsp/LCon_1.md",
+    "ifsp/Laplace Transform.md",
+    "ifsp/Integrals.md",
+    "ifsp/INSEL.md",
+    "ifsp/energy_conversion.md",
+    "ifsp/MOS.md",
+    "ifsp/Circuit_Analysis.md",
+    "nts/Home.md",
+    "nts/dotfiles.md",
     "Home.md",
     "README.md",
     "ex_c/robotics_01_aerial_robotics.md",
@@ -167,8 +172,6 @@
     "ex_c/psql.md",
     "ex_c/My Power BI Notes.md",
     "ex_c/Blockchain.md",
-    "ex_c/Career Plan.md",
-    "ifsp/Automation.md",
-    "ifsp/Limits.md"
+    "ex_c/Career Plan.md"
   ]
 }

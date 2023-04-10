@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "R",
+      "path": "R.md"
+    },
+    {
+      "basename": "Máquinas Elétricas e Conversão de Energia",
+      "path": "ifsp/Máquinas Elétricas e Conversão de Energia.md"
+    },
+    {
+      "basename": "Digital Systems",
+      "path": "ifsp/Digital Systems.md"
+    },
+    {
+      "basename": "CLP",
+      "path": "ifsp/CLP.md"
+    },
+    {
+      "basename": "00_Calculus",
+      "path": "ifsp/00_Calculus.md"
+    },
+    {
+      "basename": "Limits",
+      "path": "ifsp/Limits.md"
+    },
+    {
+      "basename": "LCon_1",
+      "path": "ifsp/LCon_1.md"
+    },
+    {
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
+    },
+    {
+      "basename": "Integrals",
+      "path": "ifsp/Integrals.md"
+    },
+    {
+      "basename": "INSEL",
+      "path": "ifsp/INSEL.md"
+    },
+    {
+      "basename": "energy_conversion",
+      "path": "ifsp/energy_conversion.md"
+    },
+    {
+      "basename": "MOS",
+      "path": "ifsp/MOS.md"
+    },
+    {
+      "basename": "Circuit_Analysis",
+      "path": "ifsp/Circuit_Analysis.md"
+    },
+    {
+      "basename": "mermaid_test_file",
+      "path": "nts/mermaid_test_file.md"
+    },
+    {
+      "basename": "dotfiles",
+      "path": "nts/dotfiles.md"
+    },
+    {
       "basename": "Home",
       "path": "nts/Home.md"
     },
@@ -41,10 +101,6 @@
       "path": "ifsp/Automation.md"
     },
     {
-      "basename": "Limits",
-      "path": "ifsp/Limits.md"
-    },
-    {
       "basename": "quine_mccluskey_algorithm",
       "path": "ifsp/quine_mccluskey_algorithm.md"
     },
@@ -65,10 +121,6 @@
       "path": "ifsp/P.U..md"
     },
     {
-      "basename": "MOS",
-      "path": "ifsp/MOS.md"
-    },
-    {
       "basename": "Modelagem de Sistemas",
       "path": "ifsp/Modelagem de Sistemas.md"
     },
@@ -77,20 +129,8 @@
       "path": "ifsp/00_Electricity.md"
     },
     {
-      "basename": "Circuit_Analysis",
-      "path": "ifsp/Circuit_Analysis.md"
-    },
-    {
       "basename": "00_Digital Systems and Electronics",
       "path": "ifsp/00_Digital Systems and Electronics.md"
-    },
-    {
-      "basename": "00_Calculus",
-      "path": "ifsp/00_Calculus.md"
-    },
-    {
-      "basename": "INSEL",
-      "path": "ifsp/INSEL.md"
     },
     {
       "basename": "robotics_01_aerial_robotics",
@@ -109,32 +149,12 @@
       "path": "ex_c/java_tim_tutorial.md"
     },
     {
-      "basename": "Integrals",
-      "path": "ifsp/Integrals.md"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
-    },
-    {
       "basename": "Kanban",
       "path": "ex_c/Kanban.md"
     },
     {
-      "basename": "LCon_1",
-      "path": "ifsp/LCon_1.md"
-    },
-    {
-      "basename": "Digital Systems",
-      "path": "ifsp/Digital Systems.md"
-    },
-    {
       "basename": "microcontrollers",
       "path": "ifsp/microcontrollers.md"
-    },
-    {
-      "basename": "Máquinas Elétricas e Conversão de Energia",
-      "path": "ifsp/Máquinas Elétricas e Conversão de Energia.md"
     },
     {
       "basename": "202206281627",
@@ -179,26 +199,6 @@
     {
       "basename": "Laplace Transform",
       "path": "nts/ifsp/Laplace Transform.md"
-    },
-    {
-      "basename": "Integrals",
-      "path": "nts/ifsp/Integrals.md"
-    },
-    {
-      "basename": "INSEL",
-      "path": "nts/ifsp/INSEL.md"
-    },
-    {
-      "basename": "Quine-McCluskey Algorithm",
-      "path": "nts/ifsp/Quine-McCluskey Algorithm.md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "nts/ifsp/Modelagem de Sistemas.md"
-    },
-    {
-      "basename": "Máquinas Elétricas e Conversão de Energia",
-      "path": "nts/ifsp/Máquinas Elétricas e Conversão de Energia.md"
     }
   ],
   "omittedPaths": [],

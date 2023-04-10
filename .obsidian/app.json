@@ -12,6 +12,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A5",
     "landscape": false,
     "margin": "2",
@@ -20,6 +21,6 @@
   "readableLineLength": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "vimMode": true,
+  "vimMode": false,
   "rightToLeft": false
 }
