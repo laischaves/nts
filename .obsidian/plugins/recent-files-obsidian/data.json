@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "circuit_cheat_sheet",
+      "path": "ifsp/circuit_cheat_sheet.pdf"
+    },
+    {
+      "basename": "Circuit_Analysis",
+      "path": "ifsp/Circuit_Analysis.md"
+    },
+    {
+      "basename": "Calculus Cheat Sheet",
+      "path": "ifsp/Calculus Cheat Sheet.md"
+    },
+    {
+      "basename": "00_Calculus",
+      "path": "ifsp/00_Calculus.md"
+    },
+    {
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
+    },
+    {
+      "basename": "laplace",
+      "path": "ifsp/laplace.md"
+    },
+    {
+      "basename": "LCon_1",
+      "path": "ifsp/LCon_1.md"
+    },
+    {
+      "basename": "Lista1_model",
+      "path": "ifsp/Lista1_model.md"
+    },
+    {
+      "basename": "model",
+      "path": "ifsp/model.md"
+    },
+    {
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
+    },
+    {
       "basename": "wenclair",
       "path": "fiction/wenclair.md"
     },
@@ -85,20 +125,8 @@
       "path": "ifsp/CLP.md"
     },
     {
-      "basename": "00_Calculus",
-      "path": "ifsp/00_Calculus.md"
-    },
-    {
       "basename": "Limits",
       "path": "ifsp/Limits.md"
-    },
-    {
-      "basename": "LCon_1",
-      "path": "ifsp/LCon_1.md"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
     },
     {
       "basename": "Integrals",
@@ -115,10 +143,6 @@
     {
       "basename": "MOS",
       "path": "ifsp/MOS.md"
-    },
-    {
-      "basename": "Circuit_Analysis",
-      "path": "ifsp/Circuit_Analysis.md"
     },
     {
       "basename": "Automation",
@@ -143,10 +167,6 @@
     {
       "basename": "P.U.",
       "path": "ifsp/P.U..md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "ifsp/Modelagem de Sistemas.md"
     },
     {
       "basename": "00_Electricity",
@@ -179,26 +199,6 @@
     {
       "basename": "00_Electricity",
       "path": "nts/ifsp/00_Electricity.md"
-    },
-    {
-      "basename": "00_Digital Systems and Electronics",
-      "path": "nts/ifsp/00_Digital Systems and Electronics.md"
-    },
-    {
-      "basename": "00_Calculus",
-      "path": "nts/ifsp/00_Calculus.md"
-    },
-    {
-      "basename": "MOS",
-      "path": "nts/ifsp/MOS.md"
-    },
-    {
-      "basename": "Circuit_Analysis",
-      "path": "nts/ifsp/Circuit_Analysis.md"
-    },
-    {
-      "basename": "circuit_cheat_sheet",
-      "path": "nts/ifsp/circuit_cheat_sheet.pdf"
     }
   ],
   "omittedPaths": [],

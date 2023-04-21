@@ -1,0 +1,1 @@
+1. Obter a EDO e função de transferência para o sistema elétrico abaixo. Entrada: tensão $e_i(t)$, saída: $e_0(t)$.

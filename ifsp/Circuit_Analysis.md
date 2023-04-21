@@ -82,4 +82,48 @@ A.k.a.: the second law, loop or mesh rule: *The directed sum of the potential di
 > $$\sum^n_{k=1}V_k=0$$
 
 
+**Ohm's Law:**
+Ohm's law states that the current flowing through a conductor is directly proportional to the voltage applied across it, and inversely proportional to its resistance.
 
+Ohm's Law Equation:
+$V = IR$
+
+where V is the voltage in volts (V), I is the current in amperes (A), and R is the resistance in ohms ($\Omega$).
+
+**Series and Parallel Circuits:**
+Series and parallel circuits are two basic types of circuits.
+
+Series Circuits:
+In a series circuit, the components are connected in a sequence, so that the same current flows through each component.
+
+Total Resistance in a Series Circuit:
+$R_{total} = R_1 + R_2 + \dots + R_n$
+
+where $R_{total}$ is the total resistance, and $R_1$, $R_2$, $\dots$, $R_n$ are the resistances of the individual components.
+
+Parallel Circuits:
+In a parallel circuit, the components are connected in branches, so that the voltage across each component is the same, and the total current is the sum of the currents through each branch.
+
+Total Resistance in a Parallel Circuit:
+$\frac{1}{R_{total}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$
+
+where $R_{total}$ is the total resistance, and $R_1$, $R_2$, $\dots$, $R_n$ are the resistances of the individual components.
+
+**Capacitors and Inductors:**
+Capacitors and inductors are two common circuit elements.
+
+Capacitors:
+A capacitor is a device that stores electrical energy in an electric field.
+
+Capacitance Equation:
+$C = \frac{Q}{V}$
+
+where C is the capacitance in farads (F), Q is the charge in coulombs (C), and V is the voltage in volts (V).
+
+Inductors:
+An inductor is a device that stores electrical energy in a magnetic field.
+
+Inductance Equation:
+$L = \frac{\phi}{I}$
+
+where L is the inductance in henries (H), $\phi$ is the magnetic flux in webers (Wb), and I is the current in amperes (A).

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6f44620a09ecccdb",
+        "id": "db9879191466daf8",
         "type": "tabs",
         "children": [
           {
-            "id": "6b98aa3f355a7340",
+            "id": "8559c3bfd28e2f2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fiction/wenclair.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fiction/wenclair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "fiction/wenclair.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +145,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6b98aa3f355a7340",
+  "active": "8559c3bfd28e2f2f",
   "lastOpenFiles": [
+    "ifsp/circuit_cheat_sheet.pdf",
+    "ifsp/Circuit_Analysis.md",
+    "ifsp/Calculus Cheat Sheet.md",
+    "ifsp/00_Calculus.md",
+    "ifsp/Laplace Transform.md",
+    "ifsp/laplace.md",
+    "ifsp/LCon_1.md",
+    "ifsp/Lista1_model.md",
+    "ifsp/model.md",
+    "ifsp/Modelagem de Sistemas.md",
     "ex_c/Blockchain.md",
     "ex_c/Career Plan.md",
     "ex_c/java_tim_tutorial.md",
@@ -169,16 +173,6 @@
     "R.md",
     "ex_c/images/network_001_ethernetcon.png",
     "nts/dotfiles.md",
-    "nts/Home.md",
-    "nts/mermaid_test_file.md",
-    "ifsp/Digital Systems.md",
-    "ifsp/CLP.md",
-    "ifsp/00_Calculus.md",
-    "ifsp/LCon_1.md",
-    "ifsp/Laplace Transform.md",
-    "ifsp/Integrals.md",
-    "ifsp/INSEL.md",
-    "ifsp/energy_conversion.md",
-    "ifsp/MOS.md"
+    "nts/Home.md"
   ]
 }

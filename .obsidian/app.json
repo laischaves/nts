@@ -22,5 +22,6 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "vimMode": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showInlineTitle": false
 }
