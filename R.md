@@ -1,3 +1,11 @@
+Nova tabela (data frame):
+```R
+Column1 <- c("Value1", "Value2", "Value3")
+Column2 <- c(23, 41, 32)
+
+df <- data.frame(Column1, Column2)
+```
+
 Importar CSV:
 ```R
 tabela <- read.csv("path/file.csv", header = TRUE, sep = ";")
@@ -6,6 +14,8 @@ tabela <- read.csv("path/file.csv", header = TRUE, sep = ";")
 Frequência: 
 ```R
  table(tabela$COLUNA)
+ # ou, com apenas um vetor
+ table(vetor_solto)
 ```
 
 Frequência relativa: Ocorrências/Observações
@@ -14,6 +24,12 @@ Frequência relativa: Ocorrências/Observações
 coluna_solta <- table(tabela$COLUNA)
 freq_relativa <- coluna_solta / sum(coluna_solta)
 ```
+
+Somar _n_ valores de um vetor:
+```R
+sum(vetor[1:n])
+```
+
 
 Média, mediana, moda:
 ```R

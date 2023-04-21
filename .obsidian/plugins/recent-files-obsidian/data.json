@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "wenclair",
+      "path": "fiction/wenclair.md"
+    },
+    {
+      "basename": "Blockchain",
+      "path": "ex_c/Blockchain.md"
+    },
+    {
+      "basename": "Career Plan",
+      "path": "ex_c/Career Plan.md"
+    },
+    {
+      "basename": "java_tim_tutorial",
+      "path": "ex_c/java_tim_tutorial.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "ex_c/Kanban.md"
+    },
+    {
+      "basename": "My Power BI Notes",
+      "path": "ex_c/My Power BI Notes.md"
+    },
+    {
+      "basename": "Networks",
+      "path": "ex_c/Networks.md"
+    },
+    {
+      "basename": "psql",
+      "path": "ex_c/psql.md"
+    },
+    {
+      "basename": "robotics_01_aerial_robotics",
+      "path": "ex_c/robotics_01_aerial_robotics.md"
+    },
+    {
+      "basename": "SQL Cheat Sheet",
+      "path": "ex_c/SQL Cheat Sheet.md"
+    },
+    {
+      "basename": "StudyPlan",
+      "path": "ex_c/StudyPlan.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "R",
       "path": "R.md"
+    },
+    {
+      "basename": "network_001_ethernetcon",
+      "path": "ex_c/images/network_001_ethernetcon.png"
+    },
+    {
+      "basename": "dotfiles",
+      "path": "nts/dotfiles.md"
+    },
+    {
+      "basename": "Home",
+      "path": "nts/Home.md"
+    },
+    {
+      "basename": "mermaid_test_file",
+      "path": "nts/mermaid_test_file.md"
     },
     {
       "basename": "Máquinas Elétricas e Conversão de Energia",
@@ -53,50 +121,6 @@
       "path": "ifsp/Circuit_Analysis.md"
     },
     {
-      "basename": "mermaid_test_file",
-      "path": "nts/mermaid_test_file.md"
-    },
-    {
-      "basename": "dotfiles",
-      "path": "nts/dotfiles.md"
-    },
-    {
-      "basename": "Home",
-      "path": "nts/Home.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "robotics_01_aerial_robotics",
-      "path": "ex_c/robotics_01_aerial_robotics.md"
-    },
-    {
-      "basename": "SQL Cheat Sheet",
-      "path": "ex_c/SQL Cheat Sheet.md"
-    },
-    {
-      "basename": "psql",
-      "path": "ex_c/psql.md"
-    },
-    {
-      "basename": "My Power BI Notes",
-      "path": "ex_c/My Power BI Notes.md"
-    },
-    {
-      "basename": "Blockchain",
-      "path": "ex_c/Blockchain.md"
-    },
-    {
-      "basename": "Career Plan",
-      "path": "ex_c/Career Plan.md"
-    },
-    {
       "basename": "Automation",
       "path": "ifsp/Automation.md"
     },
@@ -137,20 +161,8 @@
       "path": "ex_c/penn_robotics/robotics_01_aerial_robotics.md"
     },
     {
-      "basename": "Networks",
-      "path": "ex_c/Networks.md"
-    },
-    {
       "basename": "eletronica",
       "path": "ifsp/eletronica.md"
-    },
-    {
-      "basename": "java_tim_tutorial",
-      "path": "ex_c/java_tim_tutorial.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "ex_c/Kanban.md"
     },
     {
       "basename": "microcontrollers",
@@ -187,18 +199,6 @@
     {
       "basename": "circuit_cheat_sheet",
       "path": "nts/ifsp/circuit_cheat_sheet.pdf"
-    },
-    {
-      "basename": "Digital Systems",
-      "path": "nts/ifsp/Digital Systems.md"
-    },
-    {
-      "basename": "Electronics",
-      "path": "nts/ifsp/Electronics.md"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "nts/ifsp/Laplace Transform.md"
     }
   ],
   "omittedPaths": [],

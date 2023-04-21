@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fba5816287dd35f7",
+        "id": "6f44620a09ecccdb",
         "type": "tabs",
         "children": [
           {
-            "id": "7eff28098818537e",
+            "id": "6b98aa3f355a7340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R.md",
+                "file": "fiction/wenclair.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 262.0047149658203
   },
   "right": {
     "id": "dd6a9c56cfade9ce",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R.md",
+                "file": "fiction/wenclair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R.md"
+                "file": "fiction/wenclair.md"
               }
             }
           },
@@ -130,11 +130,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 263.2735900878906
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,9 +151,26 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7eff28098818537e",
+  "active": "6b98aa3f355a7340",
   "lastOpenFiles": [
+    "ex_c/Blockchain.md",
+    "ex_c/Career Plan.md",
+    "ex_c/java_tim_tutorial.md",
+    "ex_c/Kanban.md",
+    "ex_c/My Power BI Notes.md",
+    "ex_c/Networks.md",
+    "ex_c/psql.md",
+    "ex_c/robotics_01_aerial_robotics.md",
+    "ex_c/SQL Cheat Sheet.md",
+    "ex_c/StudyPlan.md",
+    "fiction/wenclair.md",
+    "README.md",
+    "Home.md",
     "R.md",
+    "ex_c/images/network_001_ethernetcon.png",
+    "nts/dotfiles.md",
+    "nts/Home.md",
+    "nts/mermaid_test_file.md",
     "ifsp/Digital Systems.md",
     "ifsp/CLP.md",
     "ifsp/00_Calculus.md",
@@ -161,17 +179,6 @@
     "ifsp/Integrals.md",
     "ifsp/INSEL.md",
     "ifsp/energy_conversion.md",
-    "ifsp/MOS.md",
-    "ifsp/Circuit_Analysis.md",
-    "nts/Home.md",
-    "nts/dotfiles.md",
-    "Home.md",
-    "README.md",
-    "ex_c/robotics_01_aerial_robotics.md",
-    "ex_c/SQL Cheat Sheet.md",
-    "ex_c/psql.md",
-    "ex_c/My Power BI Notes.md",
-    "ex_c/Blockchain.md",
-    "ex_c/Career Plan.md"
+    "ifsp/MOS.md"
   ]
 }
