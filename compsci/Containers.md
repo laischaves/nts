@@ -1,0 +1,5 @@
+- ## Containers
+	- A container is like a _package_ containing all the necessary components of an application code (libraries, frameworks, etc.), making the isolated in their own container.
+	- This allow the application to be moved and ran consistently in _any environment or infrastructure_. The container is like a functional and portable computing environment surrounding the application. 
+	- Containers are an alternative to coding on one platform or operating system, which made moving their application difficult since the code might not then be compatible with the new environment. [RedHat](https://www.redhat.com/en/topics/cloud-native-apps/what-is-containerization)
+	- Compared to VMs, containers are much smaller. VMs contain their own OS, while containers usually don't carry anything thing larger than the application and it's running environment, which makes them ideal for microservices.

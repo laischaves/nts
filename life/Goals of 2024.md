@@ -1,0 +1,15 @@
+---
+tags: []
+---
+- [ ] read 2 books
+- [ ] eat fruit once a week
+- [ ] eat salad once a week
+- [ ] do a push up every day
+- [ ] do a squat every day
+- [ ] cook a pizza from scratch
+- [ ] jump over someone
+- [ ] learn a dance
+- [ ] eat a pretty cake and share it
+- [ ] shower 5x a week
+- [ ] drink 500ml of water every day
+- [ ] score a goal

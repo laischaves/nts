@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cffe2cf76fd33c0a","type":"file","file":"life/Tasks of today.md","x":-1540,"y":-740,"width":530,"height":360},
+		{"id":"fa0576572320e557","type":"file","file":"life/Images/Athena.jpg","x":-980,"y":-740,"width":305,"height":460},
+		{"id":"91a6003d4d2659fd","type":"file","file":"life/Images/Kitty.jpg","x":-980,"y":-240,"width":305,"height":305},
+		{"id":"3b755b2fa94c1e9c","type":"file","file":"life/Tasks of this month.md","x":-640,"y":-740,"width":530,"height":300},
+		{"id":"c87f8cb5de130bf8","type":"file","file":"life/Tasks of this week.md","x":-1540,"y":-340,"width":530,"height":405},
+		{"id":"1c0016b9c47efef9","type":"file","file":"life/Goals of 2024.md","x":-640,"y":-395,"width":530,"height":460}
+	],
+	"edges":[]
+}
