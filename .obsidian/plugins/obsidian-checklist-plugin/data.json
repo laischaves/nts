@@ -1,15 +1,15 @@
 {
-  "todoPageName": "fazer",
+  "todoPageName": "tasks",
   "showChecked": false,
-  "showAllTodos": false,
+  "showAllTodos": true,
   "autoRefresh": true,
   "subGroups": false,
-  "groupBy": "page",
+  "groupBy": "tag",
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
-  "lookAndFeel": "classic",
+  "lookAndFeel": "compact",
   "_collapsedSections": [],
   "_hiddenTags": []
 }

@@ -7,8 +7,8 @@ $1 / R_{tot} = 1/R1 + 1/R2 ....$
 
 *Voltage Divider*:
 
-$V_{out} = V-{in} \cdot R2 / R1 + R2$ |
-Voltage at Middle of divider
+$V_{out} = V_{in} \cdot \frac{R_x}{R_{eq}}$ |
+Voltage at resistor x
 
 *LED Resistor*:
 
@@ -110,20 +110,25 @@ $\frac{1}{R_{total}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$
 where $R_{total}$ is the total resistance, and $R_1$, $R_2$, $\dots$, $R_n$ are the resistances of the individual components.
 
 **Capacitors and Inductors:**
-Capacitors and inductors are two common circuit elements.
 
-Capacitors:
-A capacitor is a device that stores electrical energy in an electric field.
+Inductance is a property of an electrical circuit component that opposes changes in current flow and is measured in henries (H). It can be defined mathematically as the ratio of the magnetic flux to the current flowing through a circuit:
 
-Capacitance Equation:
-$C = \frac{Q}{V}$
+$\begin{equation} L = \frac{\Phi}{I} \end{equation}$
 
-where C is the capacitance in farads (F), Q is the charge in coulombs (C), and V is the voltage in volts (V).
+where L is inductance in henries, $\Phi$ is the magnetic flux in webers, and I is the current in amperes.
 
-Inductors:
-An inductor is a device that stores electrical energy in a magnetic field.
+The derivative of inductance with respect to time is known as the rate of change of current, and is given by:
 
-Inductance Equation:
-$L = \frac{\phi}{I}$
+$\begin{equation} \frac{dL}{dt} = \frac{d}{dt} \left(\frac{\Phi}{I}\right) = \frac{1}{I}\frac{d\Phi}{dt} - \frac{\Phi}{I^2}\frac{dI}{dt} \end{equation}$
 
-where L is the inductance in henries (H), $\phi$ is the magnetic flux in webers (Wb), and I is the current in amperes (A).
+Capacitance, on the other hand, is a property of an electrical circuit component that stores electrical energy in an electric field and is measured in farads (F). It can be defined mathematically as the ratio of the charge stored on a capacitor to the voltage across it:
+
+$\begin{equation} C = \frac{Q}{V} \end{equation}$
+
+where C is capacitance in farads, Q is charge in coulombs, and V is voltage in volts.
+
+The derivative of capacitance with respect to time is known as the rate of change of voltage, and is given by:
+
+$\begin{equation} \frac{dC}{dt} = \frac{d}{dt} \left(\frac{Q}{V}\right) = -\frac{Q}{V^2}\frac{dV}{dt} + \frac{1}{V}\frac{dQ}{dt} \end{equation}$
+
+where the negative sign in the first term arises due to the fact that the charge on a capacitor is inversely proportional to the voltage across it.

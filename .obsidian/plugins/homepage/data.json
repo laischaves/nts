@@ -1,10 +1,20 @@
 {
-  "version": 2,
-  "defaultNote": "nts/Home",
-  "workspace": "Home",
-  "workspaceEnabled": false,
-  "hasRibbonIcon": true,
-  "openMode": "Replace all open notes",
-  "view": "Reading view",
-  "refreshDataview": false
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "hasRibbonIcon": true,
+      "openMode": "Replace all open notes",
+      "view": "Reading view",
+      "refreshDataview": false,
+      "value": "Home.canvas",
+      "kind": "File",
+      "commands": [],
+      "openOnStartup": true,
+      "openWhenEmpty": true,
+      "alwaysApply": true,
+      "revertView": true
+    }
+  },
+  "separateMobile": false
 }

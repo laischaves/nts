@@ -1,206 +1,207 @@
 {
   "recentFiles": [
     {
-      "basename": "circuit_cheat_sheet",
-      "path": "ifsp/circuit_cheat_sheet.pdf"
+      "basename": "python deep dive",
+      "path": "compsci/python deep dive.md"
     },
     {
-      "basename": "Circuit_Analysis",
-      "path": "ifsp/Circuit_Analysis.md"
-    },
-    {
-      "basename": "Calculus Cheat Sheet",
-      "path": "ifsp/Calculus Cheat Sheet.md"
-    },
-    {
-      "basename": "00_Calculus",
-      "path": "ifsp/00_Calculus.md"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
-    },
-    {
-      "basename": "laplace",
-      "path": "ifsp/laplace.md"
-    },
-    {
-      "basename": "LCon_1",
-      "path": "ifsp/LCon_1.md"
-    },
-    {
-      "basename": "Lista1_model",
-      "path": "ifsp/Lista1_model.md"
-    },
-    {
-      "basename": "model",
-      "path": "ifsp/model.md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "ifsp/Modelagem de Sistemas.md"
-    },
-    {
-      "basename": "wenclair",
-      "path": "fiction/wenclair.md"
-    },
-    {
-      "basename": "Blockchain",
-      "path": "ex_c/Blockchain.md"
-    },
-    {
-      "basename": "Career Plan",
-      "path": "ex_c/Career Plan.md"
-    },
-    {
-      "basename": "java_tim_tutorial",
-      "path": "ex_c/java_tim_tutorial.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "ex_c/Kanban.md"
-    },
-    {
-      "basename": "My Power BI Notes",
-      "path": "ex_c/My Power BI Notes.md"
-    },
-    {
-      "basename": "Networks",
-      "path": "ex_c/Networks.md"
-    },
-    {
-      "basename": "psql",
-      "path": "ex_c/psql.md"
-    },
-    {
-      "basename": "robotics_01_aerial_robotics",
-      "path": "ex_c/robotics_01_aerial_robotics.md"
-    },
-    {
-      "basename": "SQL Cheat Sheet",
-      "path": "ex_c/SQL Cheat Sheet.md"
-    },
-    {
-      "basename": "StudyPlan",
-      "path": "ex_c/StudyPlan.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "python functions and features to remember",
+      "path": "compsci/python functions and features to remember.md"
     },
     {
       "basename": "R",
-      "path": "R.md"
+      "path": "compsci/R.md"
     },
     {
-      "basename": "network_001_ethernetcon",
-      "path": "ex_c/images/network_001_ethernetcon.png"
+      "basename": "basic python",
+      "path": "compsci/basic python.md"
+    },
+    {
+      "basename": "Blockchain",
+      "path": "compsci/Blockchain.md"
+    },
+    {
+      "basename": "Containers",
+      "path": "compsci/Containers.md"
+    },
+    {
+      "basename": "Kubernetes",
+      "path": "compsci/Kubernetes.md"
     },
     {
       "basename": "dotfiles",
-      "path": "nts/dotfiles.md"
+      "path": "compsci/dotfiles.md"
+    },
+    {
+      "basename": "Monolith",
+      "path": "compsci/Monolith.md"
+    },
+    {
+      "basename": "Microservices",
+      "path": "compsci/Microservices.md"
+    },
+    {
+      "basename": "psql",
+      "path": "compsci/psql.md"
+    },
+    {
+      "basename": "Networks",
+      "path": "compsci/Networks.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "compsci/Untitled 1.md"
+    },
+    {
+      "basename": "SQL Cheat Sheet",
+      "path": "compsci/SQL Cheat Sheet.md"
     },
     {
       "basename": "Home",
-      "path": "nts/Home.md"
-    },
-    {
-      "basename": "mermaid_test_file",
-      "path": "nts/mermaid_test_file.md"
-    },
-    {
-      "basename": "Máquinas Elétricas e Conversão de Energia",
-      "path": "ifsp/Máquinas Elétricas e Conversão de Energia.md"
-    },
-    {
-      "basename": "Digital Systems",
-      "path": "ifsp/Digital Systems.md"
-    },
-    {
-      "basename": "CLP",
-      "path": "ifsp/CLP.md"
-    },
-    {
-      "basename": "Limits",
-      "path": "ifsp/Limits.md"
-    },
-    {
-      "basename": "Integrals",
-      "path": "ifsp/Integrals.md"
-    },
-    {
-      "basename": "INSEL",
-      "path": "ifsp/INSEL.md"
-    },
-    {
-      "basename": "energy_conversion",
-      "path": "ifsp/energy_conversion.md"
-    },
-    {
-      "basename": "MOS",
-      "path": "ifsp/MOS.md"
-    },
-    {
-      "basename": "Automation",
-      "path": "ifsp/Automation.md"
-    },
-    {
-      "basename": "quine_mccluskey_algorithm",
-      "path": "ifsp/quine_mccluskey_algorithm.md"
-    },
-    {
-      "basename": "Quine-McCluskey Algorithm",
-      "path": "ifsp/Quine-McCluskey Algorithm.md"
-    },
-    {
-      "basename": "Thermodynamics",
-      "path": "ifsp/Thermodynamics.md"
-    },
-    {
-      "basename": "Power Electronics",
-      "path": "ifsp/Power Electronics.md"
-    },
-    {
-      "basename": "P.U.",
-      "path": "ifsp/P.U..md"
+      "path": "Home.canvas"
     },
     {
       "basename": "00_Electricity",
       "path": "ifsp/00_Electricity.md"
     },
     {
+      "basename": "00_Calculus",
+      "path": "ifsp/00_Calculus.md"
+    },
+    {
+      "basename": "model_pds1",
+      "path": "ifsp/pdfs/model_pds1.pdf"
+    },
+    {
+      "basename": "model_pdf2",
+      "path": "ifsp/pdfs/model_pdf2.pdf"
+    },
+    {
+      "basename": "eletronica-de-potencia-muhhamad-h-rashid",
+      "path": "ifsp/pdfs/eletronica-de-potencia-muhhamad-h-rashid.pdf"
+    },
+    {
+      "basename": "circuit_cheat_sheet",
+      "path": "ifsp/pdfs/circuit_cheat_sheet.pdf"
+    },
+    {
+      "basename": "MODEL_L1",
+      "path": "ifsp/problem lists/MODEL_L1.pdf"
+    },
+    {
+      "basename": "Limits",
+      "path": "ifsp/Limits.md"
+    },
+    {
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
+    },
+    {
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
+    },
+    {
+      "basename": "Digital Systems",
+      "path": "ifsp/Digital Systems.md"
+    },
+    {
+      "basename": "l1_model",
+      "path": "ifsp/l1_model.md"
+    },
+    {
+      "basename": "energy_conversion",
+      "path": "ifsp/energy_conversion.md"
+    },
+    {
+      "basename": "L2_model",
+      "path": "ifsp/L2_model.md"
+    },
+    {
+      "basename": "Integrals",
+      "path": "ifsp/Integrals.md"
+    },
+    {
       "basename": "00_Digital Systems and Electronics",
       "path": "ifsp/00_Digital Systems and Electronics.md"
     },
     {
-      "basename": "robotics_01_aerial_robotics",
-      "path": "ex_c/penn_robotics/robotics_01_aerial_robotics.md"
+      "basename": "DevOps Terms",
+      "path": "compsci/DevOps Terms.md"
     },
     {
-      "basename": "eletronica",
-      "path": "ifsp/eletronica.md"
+      "basename": "Polar Form",
+      "path": "ifsp/Polar Form.md"
     },
     {
-      "basename": "microcontrollers",
-      "path": "ifsp/microcontrollers.md"
+      "basename": "Career Plan",
+      "path": "ifsp/ex_c/Career Plan.md"
     },
     {
-      "basename": "202206281627",
-      "path": "202206281627.md"
+      "basename": "PLC",
+      "path": "ifsp/ex_c/PLC.md"
+    },
+    {
+      "basename": "PolarForm_Img4",
+      "path": "ifsp/images/PolarForm_Img4.png"
+    },
+    {
+      "basename": "PolarForm_Img3",
+      "path": "ifsp/images/PolarForm_Img3.png"
+    },
+    {
+      "basename": "PolarForm_Img2",
+      "path": "ifsp/images/PolarForm_Img2.png"
+    },
+    {
+      "basename": "PolarForm_Img1",
+      "path": "ifsp/images/PolarForm_Img1.png"
+    },
+    {
+      "basename": "Goals of 2024",
+      "path": "life/Goals of 2024.md"
+    },
+    {
+      "basename": "Athena",
+      "path": "life/Images/Athena.jpg"
+    },
+    {
+      "basename": "Tasks of today",
+      "path": "life/Tasks of today.md"
+    },
+    {
+      "basename": "Tasks of this week",
+      "path": "life/Tasks of this week.md"
+    },
+    {
+      "basename": "Tasks of this month",
+      "path": "life/Tasks of this month.md"
+    },
+    {
+      "basename": "MOS",
+      "path": "ifsp/MOS.md"
+    },
+    {
+      "basename": "wenclair",
+      "path": "fiction/wenclair.md"
+    },
+    {
+      "basename": "Kitty",
+      "path": "life/Images/Kitty.jpg"
     },
     {
       "basename": "P.U.",
-      "path": "nts/ifsp/P.U..md"
+      "path": "ifsp/P.U..md"
     },
     {
-      "basename": "00_Electricity",
-      "path": "nts/ifsp/00_Electricity.md"
+      "basename": "Automation",
+      "path": "ifsp/Automation.md"
+    },
+    {
+      "basename": "hackerrank",
+      "path": "attachments/hackerrank.py"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

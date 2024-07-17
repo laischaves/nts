@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Minimal",
   "textFontFamily": "",
-  "baseFontSize": 23,
+  "baseFontSize": 21,
   "translucency": false,
-  "accentColor": "#ff529d"
+  "accentColor": "#ff52b7"
 }

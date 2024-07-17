@@ -1,27 +1,26 @@
 {
   "defaultViewMode": "preview",
   "legacyEditor": false,
-  "livePreview": false,
-  "spellcheckLanguages": [
-    "pt-BR",
-    "en-US"
-  ],
+  "livePreview": true,
+  "spellcheckLanguages": null,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A5",
+    "includeName": false,
+    "pageSize": "A4",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 100
+    "margin": "0",
+    "downscalePercent": 80
   },
   "readableLineLength": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
   "vimMode": false,
   "rightToLeft": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "source"
 }

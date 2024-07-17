@@ -47,6 +47,38 @@ $$\frac{i_1}{i_2}=\frac{1}{a}, \space\space\frac{z_1}{z_2}=a^2$$
 ### Lorentz' law and force
 $$\vec{F} = \vec{i} \^ \vec{B}\times\space L$$
 
+---
+
+Equations:
+$$\begin{gather}
+\mathcal{R_{total}} = \sum{\mathcal{R}}
+\\
+\mathcal{R_{||}} = \frac{R_1R_2...R_n}{R_1+R_2+...+R_n}
+\\
+\phi =\int_S \boldsymbol{B} \cdot \boldsymbol{da}
+\\
+\phi_{c/g} = B_{c/g} A_{c/g}
+\\
+\mathcal{F} = Ni = \frac{B_c}{\mu} l_c + \frac{B_g}{\mu_0}g
+\\
+\mathcal{F} = \phi (\frac{l_c}{\mu A_c}+\frac{g}{\mu_0 A_g})
+\phi =  \frac{\mathcal{F}}{R_{tot}}
+\\
+e=N\frac{d\varphi}{dt}=\frac{d\lambda}{dt}
+\\
+\lambda=N\varphi = N\phi
+\\
+L=\frac{N^2}{R_{tot}} 
+
+
+\end{gather}$$
+
+$\varphi$: valor instantâneo de um fluxo variável no tempo
+$\lambda$: fluxo concatenado do enrolamento
+
+Quando se assume que a permeabilidade do material é infinita, o que pode se dizer sobre sua relutância $\mathcal{R}$?:: Que é desprezível.
+
+Tensão induzida pode também ser chamada de:: Força eletromotiva $e$ (FEM)
 
 
 

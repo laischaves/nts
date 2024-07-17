@@ -87,11 +87,18 @@ e forçada enquanto a total é muito grande.
 > on both ends must be _equal in magnitude and opposite in direction_ so that the
 > net force equals zero, else, the acceleration would be infinite.
 > $$f = k(x_1 - x_2)$$
+> Considering *springs parallel to each other*, the equivalent stiffness constant will be = $$k_{eq}=(k_1+k_2)$$
+> 
+> For *springs in series*, we consider the load on each spring to be the same, $k_1y=F$ (1) and $k_2(x-y)=F$, therefore, it works like parallel resistors would: $$k_{eq}=\frac{1}{\frac{1}{k_1}+\frac{1}{k_2}}$$
+> ![[Pasted image 20230907151305.png]]
 - **Viscous Dampers**
 > Viscous dampers depend on the speed of both ends, with $b$ as the viscous constant:
 > $$f(t)=b(\dot{x}_2 - \dot{x}_1)$$
 > $$\tau(t)=b(\dot{\theta}_2-\dot{\theta}_1)$$
 > > ![[model_fig_004_element.png]]
+> Considering *dampers parallel to each other*, the equivalent stiffness constant will be = $$b_{eq}=(b_1+b_2)$$
+> 
+> For *dampers in series*, we consider the load on each spring to be the same, $b_1\dot{y}=F$ (1) and $b_2(\dot{x}-\dot{y})=F$, therefore, it works like parallel resistors would: $$b_{eq}=\frac{1}{\frac{1}{b_1}+\frac{1}{b_2}}$$
 
 #### Example
 
@@ -160,4 +167,59 @@ _"How does a given input affects a given output?"_
 A TF (transfer function) is a input/output model describing how a given
 input affects a given output. - [Christopher Lum](https://www.youtube.com/watch?v=Uh_-RZQIaEs&ab_channel=ChristopherLum)
 
+
+## Problemas resolvidos:
+1. Sistema massa, mola e amortecedor:
+![[Pasted image 20230816171731.png]]
+
+Passo 1: diagrama de corpo livre (FBD)
+![[Pasted image 20230816172248.png]]
+
+Passo 2: segunda lei de Newton
+$$\sum F = m\ddot{x}$$
+$\sum F = f-kx-b\dot{x}=m\ddot{x}$, isolando f, temos que $f=m\ddot{x}+b\dot{x}+kx$
+
+Passo 3: teorema da derivação real
+- $\mathcal{L} [\ddot{x}(t)]=s^2X(s)-sx(0)-x(0)$
+
+considerando as condições iniciais nulas ($sx(0)$ e $x(0)$ iguais a 0), temos que
+$$ms^2X(s)+bsX(s)+kX(s)=F(s)$$
+que pode ser reduzido a
+$$X(s)[ms^2+bs+k]=F(s)$$
+
+## Regra de Crammer
+
+Dado um sistema 2x2:
+$$
+\begin{bmatrix} 
+	a & b \\
+	c & d  
+	\end{bmatrix}
+	\begin{bmatrix} 
+	x \\
+	y \\
+	\end{bmatrix}
+	=
+	\begin{bmatrix} 
+	 e \\
+	 f \\
+	\end{bmatrix}
+$$
+
+A regra de Crammer é tal que:
+
+$$
+x = \frac{
+\begin{vmatrix} 
+	\textcolor{red}{e} & b \\
+	\textcolor{red}{f} & d \\
+	\end{vmatrix}
+}{
+\begin{vmatrix} 
+	a & b \\
+	c & d  
+	\end{vmatrix}
+}
+= \frac{e\cdot d - f\cdot b}{a\cdot d - c \cdot b}
+$$
 

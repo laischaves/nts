@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "db9879191466daf8",
+        "id": "8abcaa07a2c070e1",
         "type": "tabs",
         "children": [
           {
-            "id": "8559c3bfd28e2f2f",
+            "id": "a12728a7adba3824",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "compsci/python functions and features to remember.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9001de2a2547d516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compsci/python deep dive.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hugo",
+                "query": "tag:#tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +77,20 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "bdc649f20cd7ee09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.0047149658203
+    "width": 304.5
   },
   "right": {
     "id": "dd6a9c56cfade9ce",
@@ -81,8 +106,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "compsci/python deep dive.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -96,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "compsci/python deep dive.md"
+              }
             }
           },
           {
@@ -108,19 +136,33 @@
             }
           },
           {
-            "id": "f819655fb0378f31",
+            "id": "5aa2bdcecaf37b40",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           },
           {
-            "id": "0d597ecdcd9e27cf",
+            "id": "818175edc1e0ad88",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "fcadbf9478a44808",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "compsci/python deep dive.md"
+              }
             }
           }
         ],
@@ -128,51 +170,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
+    "width": 326.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "code-files:Create Code File": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8559c3bfd28e2f2f",
+  "active": "9001de2a2547d516",
   "lastOpenFiles": [
-    "ifsp/circuit_cheat_sheet.pdf",
-    "ifsp/Circuit_Analysis.md",
-    "ifsp/Calculus Cheat Sheet.md",
+    "compsci/python functions and features to remember.md",
+    "compsci/R.md",
+    "compsci/basic python.md",
+    "compsci/Blockchain.md",
+    "compsci/Containers.md",
+    "compsci/Kubernetes.md",
+    "compsci/dotfiles.md",
+    "compsci/Monolith.md",
+    "compsci/Microservices.md",
+    "compsci/psql.md",
+    "compsci/Networks.md",
+    "compsci/python deep dive.md",
+    "compsci/Untitled 1.md",
+    "compsci/SQL Cheat Sheet.md",
+    "Home.canvas",
     "ifsp/00_Calculus.md",
+    "ifsp/pdfs/model_pds1.pdf",
+    "ifsp/pdfs/laplace1.pdf",
+    "ifsp/pdfs/model_pdf2.pdf",
+    "ifsp/pdfs/eletronica-de-potencia-muhhamad-h-rashid.pdf",
+    "ifsp/pdfs/circuit_cheat_sheet.pdf",
+    "ifsp/problem lists/MODEL_L1.pdf",
+    "ifsp/Limits.md",
     "ifsp/Laplace Transform.md",
-    "ifsp/laplace.md",
-    "ifsp/LCon_1.md",
-    "ifsp/Lista1_model.md",
-    "ifsp/model.md",
     "ifsp/Modelagem de Sistemas.md",
-    "ex_c/Blockchain.md",
-    "ex_c/Career Plan.md",
-    "ex_c/java_tim_tutorial.md",
-    "ex_c/Kanban.md",
-    "ex_c/My Power BI Notes.md",
-    "ex_c/Networks.md",
-    "ex_c/psql.md",
-    "ex_c/robotics_01_aerial_robotics.md",
-    "ex_c/SQL Cheat Sheet.md",
-    "ex_c/StudyPlan.md",
-    "fiction/wenclair.md",
-    "README.md",
-    "Home.md",
-    "R.md",
-    "ex_c/images/network_001_ethernetcon.png",
-    "nts/dotfiles.md",
-    "nts/Home.md"
+    "ifsp/Digital Systems.md",
+    "ifsp/l1_model.md",
+    "ifsp/energy_conversion.md",
+    "ifsp/L2_model.md",
+    "ifsp/Integrals.md",
+    "ifsp/00_Digital Systems and Electronics.md",
+    "compsci/DevOps Terms.md",
+    "ifsp/Polar Form.md",
+    "ifsp/images/PolarForm_Img4.png",
+    "ifsp/images/PolarForm_Img3.png",
+    "ifsp/images/PolarForm_Img2.png",
+    "ifsp/images/PolarForm_Img1.png",
+    "life/Images/Kitty.jpg",
+    "life/Images",
+    "life/Images/Athena.jpg",
+    "life",
+    "attachments/hackerrank.py",
+    "ifsp/books and pds/circuit_cheat_sheet.pdf",
+    "attachments/pict1_latex4.C.png",
+    "attachments/3.gif",
+    "Untitled 1.canvas",
+    "Pasted image 20230925224459.png",
+    "Pasted image 20230925222052.png"
   ]
 }
