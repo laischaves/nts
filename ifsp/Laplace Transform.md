@@ -17,6 +17,35 @@
 The integral form of the transform is an improper integral and improper
 [[integrals]] must be solved by converting it to a limit.
 
+## Properties
+1) Linearidade Se c1 e c2 são constantes e e são
+funções cujas transformadas de Laplace são, respectivamente,
+e , então
+
+$$ L{ c_1 f_1 (t) + c_2 f_2 (t) = c_1 F_1 + c_2 F_2 (s) } $$
+ou
+$$ L[af(t) + bg(t)] = aF(s)+bG(s) $$
+
+Devido a esta propriedade, se diz que a transformada de Laplace
+é um operador linear.
+
+3) Transformada de Laplace das derivadas de uma função
+A transformada de Laplace de uma derivada de 1ª ordem de
+uma função está dada por:
+
+$$ L{f'(t)} = sF(s)-f(0) $$
+
+∴ f(0) é o valor de f(t) em t=0.
+
+A transformada de Laplace da segunda derivada de uma
+função está dada por:
+
+$$ L{f''(t)} = s^2F(s)-sf(0)-f'(0) $$
+
+E seguindo a regra:
+
+$$ L{f^{(n)}(t)} = s^n \space L{f(t)} - s^{n-1}f(0) - s^{n-2}f'(0) - \dots - f^{(n-1)}(0) $$
+
 Example:
 > $$\int^\infty_0 e^{ct} dt = \lim_{n\to \infty}\int^n e^{ct} dt$$
 > Integrate, then evaluate the limit:
@@ -35,9 +64,15 @@ So, in this example, the integral will only converge if c < 0.
 1. $\mathcal{L} \{e^{at}\}, t\geq 0$ :
 
 $$F(s)=\int^{0}_{\infty} e^{-st}\space e^{at}\space dt$$
+
 $$F(s)=\int^{0}_{\infty} e^{-st+at} \space dt$$
+
 $$F(s)=\int^{0}_{\infty} e^{t(a-s)} \space dt$$
+
 $$\text{Indefinite integral;}$$
+
 $$F(s)= \left.\frac{e^{t(a-s)}}{a-s}\right|^{\infty}_{0}$$
+
 $$\text{it converges at 0 for } s>a: 0-\frac{1}{a-s}=\frac{1}{s-a}$$
+
 $$\text{diverges for } s\leq a$$
