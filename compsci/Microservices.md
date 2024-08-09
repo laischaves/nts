@@ -17,7 +17,7 @@ This means each service has their own independent versions, can be updated witho
 
 A way to establish communication between services is through the use of **API calls**, in which each service has it's own API to accept requests from other services. This is a *synchronous* communication, a service makes a request and waits for a response.
 
-Another way is using a **message broker**, an asynchronous method of communication. In this, services will send messages to an intermediary message service and then that message broker will forward to the respective service. 
+Another way is using a **message broker**, an asynchronous method of communication. In this, services will send messages to an intermediary message service and then that message broker will forward to the respective service.
 
 A third way is using a **service mesh**, which is {--}
 
@@ -37,7 +37,7 @@ A third way is using a **service mesh**, which is {--}
 		- May fail the objective of being completely independent and isolated and develop more tightly coupled code
 		- When the application grows, git interactions become slow
 		- Additional logic to ensure the only services built and deployed are the ones with actual code changes
-		- All projects and teams are affected by issues 
+		- All projects and teams are affected by issues
 
 
 - **Polyrepo** means using a git project to each service.
@@ -51,4 +51,5 @@ A third way is using a **service mesh**, which is {--}
 		- Searching, testing and debugging across multiple projects can be more difficult
 		- Sharing resources is more difficult
 
-The general consensus is that the monorepo structure is better for smaller microservice applications and, subsequently, polyrepo is better for larger microservice applications. 
+The general consensus is that the monorepo structure is better for smaller microservice applications and, subsequently, polyrepo is better for larger microservice applications.
+
