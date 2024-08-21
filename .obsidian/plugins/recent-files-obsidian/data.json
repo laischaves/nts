@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.canvas"
+    },
+    {
+      "basename": "AWS_Cloud_Computing",
+      "path": "compsci/AWS_Cloud_Computing.md"
+    },
+    {
+      "basename": "SQL Cheat Sheet",
+      "path": "compsci/SQL Cheat Sheet.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "compsci/Untitled 1.md"
+    },
+    {
+      "basename": "Circuit_Analysis",
+      "path": "ifsp/Circuit_Analysis.md"
+    },
+    {
+      "basename": "anki",
+      "path": "anki.txt"
+    },
+    {
       "basename": "python deep dive",
       "path": "compsci/python deep dive.md"
+    },
+    {
+      "basename": "Blockchain",
+      "path": "compsci/Blockchain.md"
+    },
+    {
+      "basename": "pict1_latex4.C",
+      "path": "attachments/pict1_latex4.C.png"
+    },
+    {
+      "basename": "LaTeX Cheatsheet",
+      "path": "attachments/LaTeX Cheatsheet.md"
+    },
+    {
+      "basename": "l1_model",
+      "path": "ifsp/l1_model.md"
+    },
+    {
+      "basename": "Electronics",
+      "path": "ifsp/Electronics.md"
+    },
+    {
+      "basename": "Tasks of this week",
+      "path": "life/Tasks of this week.md"
+    },
+    {
+      "basename": "Tasks of today",
+      "path": "life/Tasks of today.md"
+    },
+    {
+      "basename": "Tasks of this month",
+      "path": "life/Tasks of this month.md"
+    },
+    {
+      "basename": "Goals of 2024",
+      "path": "life/Goals of 2024.md"
+    },
+    {
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
+    },
+    {
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
+    },
+    {
+      "basename": "00_Digital Systems and Electronics",
+      "path": "ifsp/00_Digital Systems and Electronics.md"
     },
     {
       "basename": "python functions and features to remember",
@@ -15,10 +87,6 @@
     {
       "basename": "basic python",
       "path": "compsci/basic python.md"
-    },
-    {
-      "basename": "Blockchain",
-      "path": "compsci/Blockchain.md"
     },
     {
       "basename": "Containers",
@@ -47,18 +115,6 @@
     {
       "basename": "Networks",
       "path": "compsci/Networks.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "compsci/Untitled 1.md"
-    },
-    {
-      "basename": "SQL Cheat Sheet",
-      "path": "compsci/SQL Cheat Sheet.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.canvas"
     },
     {
       "basename": "00_Electricity",
@@ -93,20 +149,8 @@
       "path": "ifsp/Limits.md"
     },
     {
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "ifsp/Modelagem de Sistemas.md"
-    },
-    {
       "basename": "Digital Systems",
       "path": "ifsp/Digital Systems.md"
-    },
-    {
-      "basename": "l1_model",
-      "path": "ifsp/l1_model.md"
     },
     {
       "basename": "energy_conversion",
@@ -119,10 +163,6 @@
     {
       "basename": "Integrals",
       "path": "ifsp/Integrals.md"
-    },
-    {
-      "basename": "00_Digital Systems and Electronics",
-      "path": "ifsp/00_Digital Systems and Electronics.md"
     },
     {
       "basename": "DevOps Terms",
@@ -155,50 +195,6 @@
     {
       "basename": "PolarForm_Img1",
       "path": "ifsp/images/PolarForm_Img1.png"
-    },
-    {
-      "basename": "Goals of 2024",
-      "path": "life/Goals of 2024.md"
-    },
-    {
-      "basename": "Athena",
-      "path": "life/Images/Athena.jpg"
-    },
-    {
-      "basename": "Tasks of today",
-      "path": "life/Tasks of today.md"
-    },
-    {
-      "basename": "Tasks of this week",
-      "path": "life/Tasks of this week.md"
-    },
-    {
-      "basename": "Tasks of this month",
-      "path": "life/Tasks of this month.md"
-    },
-    {
-      "basename": "MOS",
-      "path": "ifsp/MOS.md"
-    },
-    {
-      "basename": "wenclair",
-      "path": "fiction/wenclair.md"
-    },
-    {
-      "basename": "Kitty",
-      "path": "life/Images/Kitty.jpg"
-    },
-    {
-      "basename": "P.U.",
-      "path": "ifsp/P.U..md"
-    },
-    {
-      "basename": "Automation",
-      "path": "ifsp/Automation.md"
-    },
-    {
-      "basename": "hackerrank",
-      "path": "attachments/hackerrank.py"
     }
   ],
   "omittedPaths": [],

@@ -1,12 +1,12 @@
 [
   "table-editor-obsidian",
   "obsidian-hider",
-  "markdown-prettifier",
   "obsidian-mind-map",
   "obsidian-collapse-all-plugin",
   "obsidian-outliner",
   "recent-files-obsidian",
   "homepage",
-  "code-files",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "open-as-md",
+  "symbols-prettifier"
 ]
