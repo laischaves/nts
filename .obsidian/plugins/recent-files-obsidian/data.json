@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
+    },
+    {
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
+    },
+    {
+      "basename": "00_Digital Systems and Electronics",
+      "path": "ifsp/00_Digital Systems and Electronics.md"
+    },
+    {
+      "basename": "Calculus Cheat Sheet",
+      "path": "ifsp/Calculus Cheat Sheet.md"
+    },
+    {
+      "basename": "MODEL_L1",
+      "path": "ifsp/problem lists/MODEL_L1.pdf"
+    },
+    {
+      "basename": "LaTeX Cheatsheet",
+      "path": "attachments/LaTeX Cheatsheet.md"
+    },
+    {
+      "basename": "pict1_latex4.C",
+      "path": "attachments/pict1_latex4.C.png"
+    },
+    {
       "basename": "Home",
       "path": "Home.canvas"
     },
@@ -33,14 +61,6 @@
       "path": "compsci/Blockchain.md"
     },
     {
-      "basename": "pict1_latex4.C",
-      "path": "attachments/pict1_latex4.C.png"
-    },
-    {
-      "basename": "LaTeX Cheatsheet",
-      "path": "attachments/LaTeX Cheatsheet.md"
-    },
-    {
       "basename": "l1_model",
       "path": "ifsp/l1_model.md"
     },
@@ -63,18 +83,6 @@
     {
       "basename": "Goals of 2024",
       "path": "life/Goals of 2024.md"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "ifsp/Modelagem de Sistemas.md"
-    },
-    {
-      "basename": "00_Digital Systems and Electronics",
-      "path": "ifsp/00_Digital Systems and Electronics.md"
     },
     {
       "basename": "python functions and features to remember",
@@ -139,10 +147,6 @@
     {
       "basename": "circuit_cheat_sheet",
       "path": "ifsp/pdfs/circuit_cheat_sheet.pdf"
-    },
-    {
-      "basename": "MODEL_L1",
-      "path": "ifsp/problem lists/MODEL_L1.pdf"
     },
     {
       "basename": "Limits",

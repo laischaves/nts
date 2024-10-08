@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compsci/python deep dive.md",
+                "file": "ifsp/Laplace Transform.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compsci/python deep dive.md",
+                "file": "ifsp/Laplace Transform.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "compsci/python deep dive.md"
+                "file": "ifsp/Laplace Transform.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "compsci/python deep dive.md"
+                "file": "ifsp/Laplace Transform.md"
               }
             }
           }
@@ -183,12 +183,18 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "code-files:Create Code File": false,
       "homepage:Open homepage": false
     }
   },
   "active": "9001de2a2547d516",
   "lastOpenFiles": [
+    "ifsp/Modelagem de Sistemas.md",
+    "ifsp/00_Digital Systems and Electronics.md",
+    "ifsp/Calculus Cheat Sheet.md",
+    "ifsp/problem lists/MODEL_L1.pdf",
+    "attachments/LaTeX Cheatsheet.md",
+    "attachments/pict1_latex4.C.png",
+    "compsci/python deep dive.md",
     "compsci/python functions and features to remember.md",
     "compsci/R.md",
     "compsci/basic python.md",
@@ -200,7 +206,6 @@
     "compsci/Microservices.md",
     "compsci/psql.md",
     "compsci/Networks.md",
-    "compsci/python deep dive.md",
     "compsci/Untitled 1.md",
     "compsci/SQL Cheat Sheet.md",
     "Home.canvas",
@@ -210,18 +215,13 @@
     "ifsp/pdfs/model_pdf2.pdf",
     "ifsp/pdfs/eletronica-de-potencia-muhhamad-h-rashid.pdf",
     "ifsp/pdfs/circuit_cheat_sheet.pdf",
-    "ifsp/problem lists/MODEL_L1.pdf",
     "ifsp/Limits.md",
     "ifsp/Laplace Transform.md",
-    "ifsp/Modelagem de Sistemas.md",
     "ifsp/Digital Systems.md",
     "ifsp/l1_model.md",
     "ifsp/energy_conversion.md",
     "ifsp/L2_model.md",
     "ifsp/Integrals.md",
-    "ifsp/00_Digital Systems and Electronics.md",
-    "compsci/DevOps Terms.md",
-    "ifsp/Polar Form.md",
     "ifsp/images/PolarForm_Img4.png",
     "ifsp/images/PolarForm_Img3.png",
     "ifsp/images/PolarForm_Img2.png",
@@ -232,7 +232,6 @@
     "life",
     "attachments/hackerrank.py",
     "ifsp/books and pds/circuit_cheat_sheet.pdf",
-    "attachments/pict1_latex4.C.png",
     "attachments/3.gif",
     "Untitled 1.canvas",
     "Pasted image 20230925224459.png",

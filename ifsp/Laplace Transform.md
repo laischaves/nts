@@ -40,13 +40,32 @@ $$ L{f'(t)} = sF(s)-f(0) $$
 A transformada de Laplace da segunda derivada de uma
 função está dada por:
 
-$$ L{f''(t)} = s^2F(s)-sf(0)-f'(0) $$
+$$L[{\ddot{f}(t)}] = s^2F(s)-sf(0)-f'(0)$$
 
 E seguindo a regra:
 
-$$ L{f^{(n)}(t)} = s^n \space L{f(t)} - s^{n-1}f(0) - s^{n-2}f'(0) - \dots - f^{(n-1)}(0) $$
+$$L[{f^{(n)}(t)}] = s^n F - s^{n-1}f(0) - s^{n-2}f'(0) - \dots - f^{(n-1)}(0)$$
 
 Example:
+Derivadas de uma função:
+
+Dada a constante arbitrária c
+
+> 1.
+>$$L[f^2(t)]\text{ com } f^2(t) \text{ igual à } c\ddot{x}
+ \text{ será}$$
+ $$cs^2F(s)-s^1f(0)-f(0)$$
+> 2.
+>$$L[x^1(t)]\text{ com } x^1(t) \text{ igual à } c\dot{x}
+ \text{ será}$$
+ $$cs^1X(s)-s^0x(0)-x(0)$$
+>3. 
+>$$L[y(t)]\text{ com } y(t) \text{ igual à } y
+ \text{ será}$$
+ $$cs^0Y(s)-y(0)$$
+> Considerando condições iniciais nulas em todos os anteriores, resultam em
+> $$cs^2F(s), \space csX(s)\text{ and } cY(s)$$
+> Example:
 > $$\int^\infty_0 e^{ct} dt = \lim_{n\to \infty}\int^n e^{ct} dt$$
 > Integrate, then evaluate the limit:
 > $$\lim_{n\to \infty}(\frac{1}{c}e^{ct})\Big{|}^n_0$$
