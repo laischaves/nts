@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "wenclair",
+      "path": "fiction/wenclair.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.canvas"
+    },
+    {
+      "basename": "model_pds1",
+      "path": "ifsp/pdfs/model_pds1.pdf"
+    },
+    {
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
+    },
+    {
+      "basename": "laplace_tabela_transformadas",
+      "path": "ifsp/pdfs/laplace_tabela_transformadas.pdf"
+    },
+    {
+      "basename": "model_pdf2",
+      "path": "ifsp/pdfs/model_pdf2.pdf"
+    },
+    {
+      "basename": "L2_model",
+      "path": "ifsp/L2_model.md"
+    },
+    {
+      "basename": "l1_model",
+      "path": "ifsp/l1_model.md"
+    },
+    {
+      "basename": "laplace_rules",
+      "path": "ifsp/pdfs/laplace_rules.pdf"
+    },
+    {
+      "basename": "MODEL_L1",
+      "path": "ifsp/problem lists/MODEL_L1.pdf"
+    },
+    {
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
+    },
+    {
+      "basename": "00_Calculus",
+      "path": "ifsp/00_Calculus.md"
+    },
+    {
+      "basename": "00_Digital Systems and Electronics",
+      "path": "ifsp/00_Digital Systems and Electronics.md"
+    },
+    {
+      "basename": "anki",
+      "path": "anki.txt"
+    },
+    {
+      "basename": "MOS",
+      "path": "ifsp/MOS.md"
+    },
+    {
+      "basename": "energy_conversion",
+      "path": "ifsp/energy_conversion.md"
+    },
+    {
+      "basename": "Electronics",
+      "path": "ifsp/Electronics.md"
+    },
+    {
+      "basename": "00_Electricity",
+      "path": "ifsp/00_Electricity.md"
+    },
+    {
+      "basename": "Máquinas Elétricas e Conversão de Energia",
+      "path": "ifsp/Máquinas Elétricas e Conversão de Energia.md"
+    },
+    {
+      "basename": "Circuit_Analysis",
+      "path": "ifsp/Circuit_Analysis.md"
+    },
+    {
+      "basename": "Electromagnetism",
+      "path": "ifsp/Electromagnetism.md"
+    },
+    {
+      "basename": "microcontrollers",
+      "path": "ifsp/microcontrollers.md"
     },
     {
       "basename": "AWS_Cloud_Computing",
@@ -15,14 +99,6 @@
     {
       "basename": "Untitled 1",
       "path": "compsci/Untitled 1.md"
-    },
-    {
-      "basename": "Circuit_Analysis",
-      "path": "ifsp/Circuit_Analysis.md"
-    },
-    {
-      "basename": "anki",
-      "path": "anki.txt"
     },
     {
       "basename": "python deep dive",
@@ -41,14 +117,6 @@
       "path": "attachments/LaTeX Cheatsheet.md"
     },
     {
-      "basename": "l1_model",
-      "path": "ifsp/l1_model.md"
-    },
-    {
-      "basename": "Electronics",
-      "path": "ifsp/Electronics.md"
-    },
-    {
       "basename": "Tasks of this week",
       "path": "life/Tasks of this week.md"
     },
@@ -63,18 +131,6 @@
     {
       "basename": "Goals of 2024",
       "path": "life/Goals of 2024.md"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "ifsp/Modelagem de Sistemas.md"
-    },
-    {
-      "basename": "00_Digital Systems and Electronics",
-      "path": "ifsp/00_Digital Systems and Electronics.md"
     },
     {
       "basename": "python functions and features to remember",
@@ -117,22 +173,6 @@
       "path": "compsci/Networks.md"
     },
     {
-      "basename": "00_Electricity",
-      "path": "ifsp/00_Electricity.md"
-    },
-    {
-      "basename": "00_Calculus",
-      "path": "ifsp/00_Calculus.md"
-    },
-    {
-      "basename": "model_pds1",
-      "path": "ifsp/pdfs/model_pds1.pdf"
-    },
-    {
-      "basename": "model_pdf2",
-      "path": "ifsp/pdfs/model_pdf2.pdf"
-    },
-    {
       "basename": "eletronica-de-potencia-muhhamad-h-rashid",
       "path": "ifsp/pdfs/eletronica-de-potencia-muhhamad-h-rashid.pdf"
     },
@@ -141,24 +181,12 @@
       "path": "ifsp/pdfs/circuit_cheat_sheet.pdf"
     },
     {
-      "basename": "MODEL_L1",
-      "path": "ifsp/problem lists/MODEL_L1.pdf"
-    },
-    {
       "basename": "Limits",
       "path": "ifsp/Limits.md"
     },
     {
       "basename": "Digital Systems",
       "path": "ifsp/Digital Systems.md"
-    },
-    {
-      "basename": "energy_conversion",
-      "path": "ifsp/energy_conversion.md"
-    },
-    {
-      "basename": "L2_model",
-      "path": "ifsp/L2_model.md"
     },
     {
       "basename": "Integrals",
@@ -171,30 +199,6 @@
     {
       "basename": "Polar Form",
       "path": "ifsp/Polar Form.md"
-    },
-    {
-      "basename": "Career Plan",
-      "path": "ifsp/ex_c/Career Plan.md"
-    },
-    {
-      "basename": "PLC",
-      "path": "ifsp/ex_c/PLC.md"
-    },
-    {
-      "basename": "PolarForm_Img4",
-      "path": "ifsp/images/PolarForm_Img4.png"
-    },
-    {
-      "basename": "PolarForm_Img3",
-      "path": "ifsp/images/PolarForm_Img3.png"
-    },
-    {
-      "basename": "PolarForm_Img2",
-      "path": "ifsp/images/PolarForm_Img2.png"
-    },
-    {
-      "basename": "PolarForm_Img1",
-      "path": "ifsp/images/PolarForm_Img1.png"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,38 @@
+How do we calculate *springs in series*?; we consider the load on each spring to be the same, $k_1y=F$ (1) and $k_2(x-y)=F$, therefore, it works like parallel resistors would: $$k_{eq}=\frac{1}{\frac{1}{k_1}+\frac{1}{k_2}}$$
+
+How do we calculate *springs parallel to each other*; the equivalent stiffness constant will be = $$k_{eq}=(k_1+k_2)$$
+
+How do we calculate *dampers parallel to each other*; the equivalent stiffness constant will be = $$b_{eq}=(b_1+b_2)$$
+
+How do we calculate *dampers in series*, we consider the load on each spring to be the same, $b_1\dot{y}=F$ (1) and $b_2(\dot{x}-\dot{y})=F$, therefore, it works like parallel resistors would: $$b_{eq}=\frac{1}{\frac{1}{b_1}+\frac{1}{b_2}}$$
+
+Describe resistor properties;"
+- no inductance or capacitance
+- voltage drop: $v = v_1 - v_2 = RI$"
+
+Describe capacitor propresties;"
+        - no resistance or capacitance
+	- $v = v_1 - v_2 = L\frac{di}{dt} \rightarrow i = \frac{1}{L}\int{vdt}$"
+
+Describe inductor properties;"
+        - no resistance or capacitance
+	- $v = v_1 - v_2 = L\frac{di}{dt} \rightarrow i = \frac{1}{L}\int{vdt}$"
+
+Define the Laplace Transform;"
+ $$F(s)=\int_0^\infty e^{-st}f(t)dt$$"
+
+Define a Transfer Function;"
+Transfer function is the ratio of the Laplace Transform of the _output_ to the
+Laplace Transform of the _input_, given that **all the initial conditions are assumed
+to be zero** (otherwise the system will not be linear)
+
+$$y(t) = x(t)*h(t)$$
+>
+> $$Y(s)=X(s)\cdot H(s)$$
+>
+> $$H(x)=\frac{Y(s)}{X(s)}$$"
+
+Defina a propriedade da transormada das derivadas de uma funcão;"
+$$ L{f^{(n)}(t)} = s^n \space L{f(t)} - s^{n-1}f(0) - s^{n-2}f'(0) - \dots - f^{(n-1)}(0) $$"
+
+
