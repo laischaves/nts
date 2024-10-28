@@ -1,8 +1,37 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "wenclair",
       "path": "fiction/wenclair.md"
+=======
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
+    },
+    {
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
+    },
+    {
+      "basename": "00_Digital Systems and Electronics",
+      "path": "ifsp/00_Digital Systems and Electronics.md"
+    },
+    {
+      "basename": "Calculus Cheat Sheet",
+      "path": "ifsp/Calculus Cheat Sheet.md"
+    },
+    {
+      "basename": "MODEL_L1",
+      "path": "ifsp/problem lists/MODEL_L1.pdf"
+    },
+    {
+      "basename": "LaTeX Cheatsheet",
+      "path": "attachments/LaTeX Cheatsheet.md"
+    },
+    {
+      "basename": "pict1_latex4.C",
+      "path": "attachments/pict1_latex4.C.png"
+>>>>>>> 754ef67bca6425e3a34e5540c528e3989c163ede
     },
     {
       "basename": "Home",
@@ -109,12 +138,21 @@
       "path": "compsci/Blockchain.md"
     },
     {
+<<<<<<< HEAD
       "basename": "pict1_latex4.C",
       "path": "attachments/pict1_latex4.C.png"
     },
     {
       "basename": "LaTeX Cheatsheet",
       "path": "attachments/LaTeX Cheatsheet.md"
+=======
+      "basename": "l1_model",
+      "path": "ifsp/l1_model.md"
+    },
+    {
+      "basename": "Electronics",
+      "path": "ifsp/Electronics.md"
+>>>>>>> 754ef67bca6425e3a34e5540c528e3989c163ede
     },
     {
       "basename": "Tasks of this week",
