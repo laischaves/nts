@@ -155,4 +155,60 @@ Wednesday began to explain to Enid that she shouldn't worry that much, she had w
 
 
 
+# mother
+
+She hurried away from the property with Enid in her arms and her brother right after, watching their backs. Enid looked pale and fragile like never before and that worried her deeply; all she wanted was to get home and care for her dear as quickly as possible.
+
+Pugsley had gotten a message from their parents, informing that they had just arrived at the airport and were waiting for them. They didn't even question if things had worked or not, just assumed.
+
+Luckly, both sibilings had a lot experience riding bikes, so their equilibrium allowed Pugsley to pilot with Wednesday carrying Enid in her arms, facing away from him. Pugsley took the motorcycle to it's speed limit, riding past cars, with shocked drivers, without faltering.
+
+A tranquil Morticia and a smirking Gomez were awaiting right at the entrance, Gomez holding a considerable first aid kit.
+
+-- Bring her to me, darling, -- Morticia directed Wednesday, as fished out a small drop shaped flask filled with a translucid green liquid.
+
+-- Be careful with her, mother, what is it? -- She held Enid in her arms, now close to Morticia, her father placed his hand on the back of Enid's head, slightly pushing it upwards.
+
+Morticia opened the flask, which caused it to hiss and let out little bubbles, and droped it's content on Enid's mouth.
+
+-- It will replenish the nutrients her body certainly needs, given the state she's in, -- She  gestured to Enid's bruises, all over her arms and legs, -- we have plenty of those on our emergency kits, I made them myself. -- Her eyes drifted back to her husband, -- Although I do prefer potions that drain the life out of someone, -- she smiled.
+
+-- We need to get home quickly, Enid needs to rest, -- Wednesday said, ignoring her mother's remarks, -- I reckon the jet is ready?
+
+-- Absolutely, Lurch awaits for us.
+
+
+
+
+
+
+Pugsley recounted the details of their encounter with the Sinclair clan with every detail he could remember, describing vividly the effects of each of his arrows, his sister's knives and Enid's bites and claws. His parents and grandmother listened excitedly, their eyes glistening with pride.
+
+At another part of the house, Wednesday watched over as Enid slept quietly at her bed. Her heart felt much lighter now, although she still worried about how Enid might react when she woke up. She knew how much it affected Enid, knowing she had hurt someone else. She wished she could teach Enid that some people deserved to suffer, to feel pain, to bleed.
+
+Unaware of her surroundings, Enid dreamt of Wednesday, of good days at Nevermore.
+
+
+
+
+
+
+When she woke up, Wednesday was sitting right beside her, watching her keenly. She felt weird but couldn't quite tell why. Her body felt fine, although she didn't remember the last time she'd eaten.
+
+-- Well, good morning, meu amor.
+
+She stiffened as she remembered she should be away from Wednesday, that she hurt her last time, -- How am I here?
+
+Wednesday's eyes were soft and curious, -- You don't remember what happened?
+
+-- What do you mean? What happened? -- Her eyes grew as her brows pushed them down at the same time.
+
+The Addams moved to touch Enid's face softly, but the girl retreaded quickly, as if Wednesday's hands would burn her, -- Meu bem, do not worry, everything is alright, we rescued you, you are safe now, it'll all come back to you.
+
+She got up from her seat and moved to the door, -- Rest, and you will remember.
+
+Enid watched as her beloved left closed the door behind her and, as the door clicked closed, it hit her. Her mother.
+
+
+
 
