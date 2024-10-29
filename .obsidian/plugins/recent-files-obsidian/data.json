@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Blockchain",
+      "path": "compsci/Blockchain.md"
+    },
+    {
+      "basename": "basic python",
+      "path": "compsci/basic python.md"
+    },
+    {
+      "basename": "wenclair",
+      "path": "fiction/wenclair.md"
+    },
+    {
+      "basename": "aws",
+      "path": "compsci/aws.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.canvas"
+    },
+    {
       "basename": "Laplace Transform",
       "path": "ifsp/Laplace Transform.md"
     },
@@ -29,10 +49,6 @@
       "path": "attachments/pict1_latex4.C.png"
     },
     {
-      "basename": "Home",
-      "path": "Home.canvas"
-    },
-    {
       "basename": "AWS_Cloud_Computing",
       "path": "compsci/AWS_Cloud_Computing.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "python deep dive",
       "path": "compsci/python deep dive.md"
-    },
-    {
-      "basename": "Blockchain",
-      "path": "compsci/Blockchain.md"
     },
     {
       "basename": "l1_model",
@@ -91,10 +103,6 @@
     {
       "basename": "R",
       "path": "compsci/R.md"
-    },
-    {
-      "basename": "basic python",
-      "path": "compsci/basic python.md"
     },
     {
       "basename": "Containers",
@@ -191,14 +199,6 @@
     {
       "basename": "PolarForm_Img3",
       "path": "ifsp/images/PolarForm_Img3.png"
-    },
-    {
-      "basename": "PolarForm_Img2",
-      "path": "ifsp/images/PolarForm_Img2.png"
-    },
-    {
-      "basename": "PolarForm_Img1",
-      "path": "ifsp/images/PolarForm_Img1.png"
     }
   ],
   "omittedPaths": [],

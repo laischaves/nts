@@ -17,7 +17,12 @@
 - **Gartner Magic Quadrant (MQ) for Cloud**
     - Is a series of research reports about cloud providers and resources on the market published by the IT consulting firma Gartner
     - Useful to keep up with market trends and services evolution (on the full reports)
-    
+- **AWS Budgets**
+	- Allows the creation of budgets for the AWS account, which can be used for alerts and actions concerning the reach of any threshold adopted by the user.
+	- You can also use CloudWatch to create billing alerts.
+- **SNS**
+
+
     **Acrononyms**                                                                                                                                                                                      
     
     - IaaS (infrastructure as a service)
