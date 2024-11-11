@@ -161,7 +161,7 @@ She hurried away from the property with Enid in her arms and her brother right a
 
 Pugsley had gotten a message from their parents, informing that they had just arrived at the airport and were waiting for them. They didn't even question if things had worked or not, just assumed.
 
-Luckly, both sibilings had a lot experience riding bikes, so their equilibrium allowed Pugsley to pilot with Wednesday carrying Enid in her arms, facing away from him. Pugsley took the motorcycle to it's speed limit, riding past cars, with shocked drivers, without faltering.
+Luckly, both sibilings had a lot experience riding motorcycles, so their equilibrium allowed Pugsley to pilot with Wednesday carrying Enid in her arms, facing away from him. Pugsley took the motorcycle to it's speed limit, riding past cars, with shocked drivers, without faltering.
 
 A tranquil Morticia and a smirking Gomez were awaiting right at the entrance, Gomez holding a considerable first aid kit.
 
@@ -169,7 +169,7 @@ A tranquil Morticia and a smirking Gomez were awaiting right at the entrance, Go
 
 -- Be careful with her, mother, what is it? -- She held Enid in her arms, now close to Morticia, her father placed his hand on the back of Enid's head, slightly pushing it upwards.
 
-Morticia opened the flask, which caused it to hiss and let out little bubbles, and droped it's content on Enid's mouth.
+Morticia opened the flask, which caused it to hiss and let out little bubbles, and dropped it's content on Enid's forehead.
 
 -- It will replenish the nutrients her body certainly needs, given the state she's in, -- She  gestured to Enid's bruises, all over her arms and legs, -- we have plenty of those on our emergency kits, I made them myself. -- Her eyes drifted back to her husband, -- Although I do prefer potions that drain the life out of someone, -- she smiled.
 
@@ -211,4 +211,59 @@ Enid watched as her beloved left closed the door behind her and, as the door cli
 
 
 
+# daughter
 
+It hit her like a violent wave at the sea, filling up her nostrils with painful salted water. Her mother at her feet, curling up in pain. The pain she caused -- again.
+
+She should've been dead by now. As her mother wanted. But Wednesday saved her, her best friend, her biggest passion. What could she do now, that her most loved person in the world was standing right beside her, while her mother was probably somewhere agonizing? 
+
+She wondered what kind of daughter she was now. Only a few months ago she was a failure, an abnormality in the family line, a disappointment to her mother -- but now, what was she? All of that and so much more, so much worse.
+
+Her breath quickened, her eyes fell shut as her mind went places darker than she had ever dreamed of.
+
+-- I'm a monster.
+
+Wednesday, whose eyes had never left Enid for a second ever since they got home, tried to understand, -- How could you be?
+
+-- I hurt my own mother, Wednesday.
+
+-- Not enough, you barely touched her, -- her head leaned to the right.
+
+-- You act as if this was nothing, but people don't hurt their families, -- Enid responded, her voice rising, -- not everybody is like you and your family!
+
+As exasperated as she sounded, Wednesday still kept her own demeanor as still as she always was, -- I understand. I do believe you have not done anything wrong, as all you did was out of the instinct for survival.
+
+-- Why should I survive? I don't even have a family now. You should've left me there to burn, -- she fell into the bed.
+
+Wednesday's face wavered, -- I'd love for nothing more than to burn with you. But I could never turn my back on you. -- She fell beside Enid, -- You'll live long, as you deserve to. You are a good person, Enid, you will never be alone for as long as I live.
+
+Enid didn't voice it, but she wished she could scream her love then and there, she wished she could cry and beg to be cared for. Her brain stopped her from doing anything, so she just laid there, in silence.
+
+
+They fell asleep shortly after.
+
+
+
+
+
+
+Morticia Addams was a resolute woman. Her husband took pride on her way of standing her ground. Her decisions were often the orders he took to his heart. When she claimed the young werewolf, Enid, as their family, he obviously accepted it without further questioning.
+
+He already loved the girl, ever since he met her. She was good to Wednesday, and that was more than he could ever ask for, besides, the girl was endearing and incredibly dangerous, an Addams favorite.
+
+So when a angry woman showed up at their porch days later after they had rescued Enid, claiming the girl as her daughter and demanding he handed her, he couldn't help but scoff.
+
+-- Ma'am this is a private residence, -- he answered, at the manor's gates, -- I advise you to leave, these gates can be very violent and the surrounding grounds are even less merciful with trespassers, -- he grinned, -- I'd love to have a good hunting though, so it's up to you.
+
+The woman, carrying unhealed cuts all over her face and a brown leather satchel bag, grunted, -- I'm her mother, you and your creepy little family have taken her from me, _I advise you_ to give her back, -- she showed him her teeth as they morphed into fangs.
+
+-- Creepy is okay, but we prefer kooky, spooky even, -- he smiled, showing her all his teeth as well, then turned and walked away from the gates.
+
+
+-- Who was that, darling? -- His wife asked, soon as he reached the porch.
+
+-- An unwelcome guest, mon cher, -- he took her hand and kissed it, -- Enid's progenitress. 
+
+-- Oh, I see, have you let out the hyenas? -- She caressed his hand in return.
+
+-- Of course, mon amour, let's hope they have a feast.
