@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Differential Equations",
       "path": "ifsp/Differential Equations.md"
     },
@@ -59,6 +60,14 @@
     {
       "basename": "Laplace Transform",
       "path": "ifsp/Laplace Transform.md"
+=======
+      "basename": "wenclair",
+      "path": "fiction/wenclair.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.canvas"
+>>>>>>> 4c007cfa4d8bf6b4a9c76c0bc7737e00652faff3
     }
   ],
   "omittedPaths": []

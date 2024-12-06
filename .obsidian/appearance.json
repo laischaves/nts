@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "theme": "moonstone",
   "cssTheme": "Typomagical",
+=======
+  "theme": "obsidian",
+  "cssTheme": "Ayu Light & Mirage",
+>>>>>>> 4c007cfa4d8bf6b4a9c76c0bc7737e00652faff3
   "textFontFamily": "",
   "baseFontSize": 21,
   "translucency": false,
