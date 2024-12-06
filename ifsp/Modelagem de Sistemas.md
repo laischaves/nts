@@ -3,24 +3,20 @@
 ### Relações
 
 | Sistema  | Resistências       | Capacitâncias                       | Indutâncias                   |
-|----------|--------------------|-------------------------------------|-------------------------------|
+| -------- | ------------------ | ----------------------------------- | ----------------------------- |
 | Elétrico | $E = Ri$           | $E=\frac{1}{C}\int idt$             | $E=L\frac{di}{dt}$            |
 | ---      | ---                | $\frac{1}{\Delta C}$                | $\Delta L$                    |
 | Mecânico | $F = B\dot{x}$     | $F = -k_s x$                        | ---                           |
 | Fluídico | $\Delta P = R_f Q$ | $\Delta P =\frac{1}{C_1}\int Q dt$  | $\Delta P = I_i\frac{dQ}{dt}$ |
 | Térmico  | $\Delta T = R_t q$ | $\Delta T = \frac{1}{C_1}\int q dt$ | ---                           |
-
-
-
-
-
+|          |                    |                                     |                               |
 
 
 ---
 
 ## Definições Iniciais
 
-**Transdutor**: dispositivo de conversão de energiga de uma natureza
+**Transdutor**: dispositivo de conversão de energia de uma natureza
 para outra, e.g. microfone, termômetro, etc.
 
 Problemas em modelagem de sistemas podem ser classificados em três tipos:
@@ -222,9 +218,72 @@ $$
 ## Solving Problems
 
 
+1. No sistema mecânico abaixo, temos um carro de massa desprezível e um sistema massa-mola-amortecedor. u é o deslocamento do carro e a entrada do sistema. O carro se move a uma velocidade constante (du/dt = constante). O deslocamento y da massa é a saída. A massa do sistema é m, a constante elástica da mola é k e o coeficiente de atrito viscoso do amortecedor é b. Obtenha o modelo matemático do sistema.
+![[singlecartp.png]]
 
+Solution:
+$$
+\begin{matrix}
+m\ddot{y} = -k(y-u) - b(\dot{y}-\dot{u})
+\\
+m\ddot{y} + b\dot{y} + ky = b\dot{u} + ku
+\\
+ms^2Y + bsY + kY = bsU + kU
+\\
+Y(ms^2+ bs + k) = U(bs + k)
+\\
+\frac{Y}{U}=\Large{\frac{bs+k}{ms^2+bs+k}}
+\end{matrix}
+$$
 
+2. Obtenha o modelo matemático e a função de transferência X1(s)/U(s) para o sistema mecânico abaixo. x1 e x2 são deslocamentos e u é a força de entrada. As massas do sistema são m1 e m2, as constantes elásticas das molas são k1, k2 e k3, e o coeficiente de atrito viscoso do amortecedor é b.
 
+![[two_cart.png]]
+
+Solution:
+
+$$
+\begin{matrix}
+m_1\ddot{x} = -k_1x_1 -k_2(x_1 - x_2) - b(\dot{x}_1 - \dot{x}_2) + u
+\\
+m_2 \ddot{x} = -k_3x_2 -k_2(x_2 - x_1) - b(\dot{x}_2 - \dot{x}_1) 
+\\
+m_1s^2X_1 = -k_1X_1 - k_2X_1 + k_2X_2 - bsX_1 + bsX_2 + U
+\\
+m_1s^2X_1 = -k_3X_2 - k_2X_2 + k_2X_1 - bsX_2 + bsX_1
+\\
+\\
+X_1(m_1s^2 + k_1 + k_2 + bs) = X_2(k_2 + bs) + U
+\\
+X_2(m_2s^2 + k_3 + k_2 + bs) = X_1(k_2 + bs)
+\\
+\\
+A_1 = (m_1s^2 + k_1 + k_2 + bs)
+\\ 
+A_2 = (m_2s^2 + k_3 + k_2 + bs)
+\\
+\\ \text{equation system}
+\\
+B = (k_2 + bs)
+\\
+X_1A_1 = X_2B + U
+\\
+X_2A_2 = X_1B
+\\
+\\
+X_2 = \frac{X_1B}{A_2} \rightarrow X_1A_1 = \frac{X_1B}{A_2}B+U
+\\
+X_1 A_1 =\frac{X_1B^2}{A_2} + U
+\\
+X_1(A_1 - \frac{B}{A_2}) = U
+\\
+\frac{X_1}{U}=\frac{1}{A_1-\frac{B^2}{A_2}}
+\\
+\\
+\frac{X_1}{U}=\Large{\frac{1}{(m_1s^2 + k_1 + k_2 + bs)-\frac{(k_2 + bs)^2}{(m_2s^2 + k_3 + k_2 + bs)}}}
+
+\end{matrix}
+$$
 
 
 

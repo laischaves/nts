@@ -1,245 +1,65 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-      "basename": "wenclair",
-      "path": "fiction/wenclair.md"
-=======
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "ifsp/Modelagem de Sistemas.md"
-    },
-    {
-      "basename": "00_Digital Systems and Electronics",
-      "path": "ifsp/00_Digital Systems and Electronics.md"
-    },
-    {
-      "basename": "Calculus Cheat Sheet",
-      "path": "ifsp/Calculus Cheat Sheet.md"
+      "basename": "Differential Equations",
+      "path": "ifsp/Differential Equations.md"
     },
     {
       "basename": "MODEL_L1",
       "path": "ifsp/problem lists/MODEL_L1.pdf"
-    },
-    {
-      "basename": "LaTeX Cheatsheet",
-      "path": "attachments/LaTeX Cheatsheet.md"
-    },
-    {
-      "basename": "pict1_latex4.C",
-      "path": "attachments/pict1_latex4.C.png"
->>>>>>> 754ef67bca6425e3a34e5540c528e3989c163ede
-    },
-    {
-      "basename": "Home",
-      "path": "Home.canvas"
-    },
-    {
-      "basename": "model_pds1",
-      "path": "ifsp/pdfs/model_pds1.pdf"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "ifsp/Laplace Transform.md"
-    },
-    {
-      "basename": "laplace_tabela_transformadas",
-      "path": "ifsp/pdfs/laplace_tabela_transformadas.pdf"
-    },
-    {
-      "basename": "model_pdf2",
-      "path": "ifsp/pdfs/model_pdf2.pdf"
-    },
-    {
-      "basename": "L2_model",
-      "path": "ifsp/L2_model.md"
-    },
-    {
-      "basename": "l1_model",
-      "path": "ifsp/l1_model.md"
-    },
-    {
-      "basename": "laplace_rules",
-      "path": "ifsp/pdfs/laplace_rules.pdf"
-    },
-    {
-      "basename": "MODEL_L1",
-      "path": "ifsp/problem lists/MODEL_L1.pdf"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "ifsp/Modelagem de Sistemas.md"
     },
     {
       "basename": "00_Calculus",
       "path": "ifsp/00_Calculus.md"
     },
     {
-      "basename": "00_Digital Systems and Electronics",
-      "path": "ifsp/00_Digital Systems and Electronics.md"
+      "basename": "Calculus Cheat Sheet",
+      "path": "ifsp/Calculus Cheat Sheet.md"
     },
     {
-      "basename": "anki",
-      "path": "anki.txt"
+      "basename": "control_modelling_solved_problems",
+      "path": "ifsp/problem lists/control_modelling_solved_problems.md"
     },
     {
-      "basename": "MOS",
-      "path": "ifsp/MOS.md"
+      "basename": "model_pdf1",
+      "path": "ifsp/pdfs/model_pdf1.pdf"
     },
     {
-      "basename": "energy_conversion",
-      "path": "ifsp/energy_conversion.md"
+      "basename": "cascaded_rc_circuit",
+      "path": "ifsp/images/cascaded_rc_circuit.png"
     },
     {
-      "basename": "Electronics",
-      "path": "ifsp/Electronics.md"
+      "basename": "rlc_system",
+      "path": "ifsp/images/rlc_system.png"
     },
     {
-      "basename": "00_Electricity",
-      "path": "ifsp/00_Electricity.md"
+      "basename": "two_cart",
+      "path": "ifsp/images/two_cart.png"
     },
     {
-      "basename": "Máquinas Elétricas e Conversão de Energia",
-      "path": "ifsp/Máquinas Elétricas e Conversão de Energia.md"
+      "basename": "Thermodynamics",
+      "path": "ifsp/Thermodynamics.md"
     },
     {
-      "basename": "Circuit_Analysis",
-      "path": "ifsp/Circuit_Analysis.md"
+      "basename": "Modelagem de Sistemas",
+      "path": "ifsp/Modelagem de Sistemas.md"
     },
     {
-      "basename": "Electromagnetism",
-      "path": "ifsp/Electromagnetism.md"
+      "basename": "MODEL_Cheatsheet",
+      "path": "ifsp/MODEL_Cheatsheet.md"
     },
     {
-      "basename": "microcontrollers",
-      "path": "ifsp/microcontrollers.md"
+      "basename": "model_pdf2",
+      "path": "ifsp/pdfs/model_pdf2.pdf"
     },
     {
-      "basename": "AWS_Cloud_Computing",
-      "path": "compsci/AWS_Cloud_Computing.md"
+      "basename": "singlecartp",
+      "path": "ifsp/images/singlecartp.png"
     },
     {
-      "basename": "SQL Cheat Sheet",
-      "path": "compsci/SQL Cheat Sheet.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "compsci/Untitled 1.md"
-    },
-    {
-      "basename": "python deep dive",
-      "path": "compsci/python deep dive.md"
-    },
-    {
-      "basename": "Blockchain",
-      "path": "compsci/Blockchain.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "pict1_latex4.C",
-      "path": "attachments/pict1_latex4.C.png"
-    },
-    {
-      "basename": "LaTeX Cheatsheet",
-      "path": "attachments/LaTeX Cheatsheet.md"
-=======
-      "basename": "l1_model",
-      "path": "ifsp/l1_model.md"
-    },
-    {
-      "basename": "Electronics",
-      "path": "ifsp/Electronics.md"
->>>>>>> 754ef67bca6425e3a34e5540c528e3989c163ede
-    },
-    {
-      "basename": "Tasks of this week",
-      "path": "life/Tasks of this week.md"
-    },
-    {
-      "basename": "Tasks of today",
-      "path": "life/Tasks of today.md"
-    },
-    {
-      "basename": "Tasks of this month",
-      "path": "life/Tasks of this month.md"
-    },
-    {
-      "basename": "Goals of 2024",
-      "path": "life/Goals of 2024.md"
-    },
-    {
-      "basename": "python functions and features to remember",
-      "path": "compsci/python functions and features to remember.md"
-    },
-    {
-      "basename": "R",
-      "path": "compsci/R.md"
-    },
-    {
-      "basename": "basic python",
-      "path": "compsci/basic python.md"
-    },
-    {
-      "basename": "Containers",
-      "path": "compsci/Containers.md"
-    },
-    {
-      "basename": "Kubernetes",
-      "path": "compsci/Kubernetes.md"
-    },
-    {
-      "basename": "dotfiles",
-      "path": "compsci/dotfiles.md"
-    },
-    {
-      "basename": "Monolith",
-      "path": "compsci/Monolith.md"
-    },
-    {
-      "basename": "Microservices",
-      "path": "compsci/Microservices.md"
-    },
-    {
-      "basename": "psql",
-      "path": "compsci/psql.md"
-    },
-    {
-      "basename": "Networks",
-      "path": "compsci/Networks.md"
-    },
-    {
-      "basename": "eletronica-de-potencia-muhhamad-h-rashid",
-      "path": "ifsp/pdfs/eletronica-de-potencia-muhhamad-h-rashid.pdf"
-    },
-    {
-      "basename": "circuit_cheat_sheet",
-      "path": "ifsp/pdfs/circuit_cheat_sheet.pdf"
-    },
-    {
-      "basename": "Limits",
-      "path": "ifsp/Limits.md"
-    },
-    {
-      "basename": "Digital Systems",
-      "path": "ifsp/Digital Systems.md"
-    },
-    {
-      "basename": "Integrals",
-      "path": "ifsp/Integrals.md"
-    },
-    {
-      "basename": "DevOps Terms",
-      "path": "compsci/DevOps Terms.md"
-    },
-    {
-      "basename": "Polar Form",
-      "path": "ifsp/Polar Form.md"
+      "basename": "Laplace Transform",
+      "path": "ifsp/Laplace Transform.md"
     }
   ],
-  "omittedPaths": [],
-  "maxLength": null,
-  "openType": "tab"
+  "omittedPaths": []
 }

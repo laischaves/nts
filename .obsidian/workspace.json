@@ -8,31 +8,71 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a12728a7adba3824",
+            "id": "bc7185bc64370119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compsci/python functions and features to remember.md",
+                "file": "ifsp/MODEL_Cheatsheet.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MODEL_Cheatsheet"
             }
           },
           {
-            "id": "9001de2a2547d516",
+            "id": "f5f55da3bde1628c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ifsp/images/rlc_system.png"
+              },
+              "icon": "lucide-image",
+              "title": "rlc_system"
+            }
+          },
+          {
+            "id": "0ff0fdaa37d5c2b7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ifsp/images/rlc_system.png"
+              },
+              "icon": "lucide-image",
+              "title": "rlc_system"
+            }
+          },
+          {
+            "id": "75438d9d265c028a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ifsp/images/two_cart.png"
+              },
+              "icon": "lucide-image",
+              "title": "two_cart"
+            }
+          },
+          {
+            "id": "e5b0ead15695aaa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ifsp/Laplace Transform.md",
-                "mode": "preview",
+                "file": "ifsp/Differential Equations.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Differential Equations"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -52,7 +92,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +109,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -83,14 +129,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 310.5
   },
   "right": {
     "id": "dd6a9c56cfade9ce",
@@ -106,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ifsp/Laplace Transform.md",
+                "file": "ifsp/Modelagem de Sistemas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +162,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Modelagem de Sistemas"
             }
           },
           {
@@ -123,8 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ifsp/Laplace Transform.md"
-              }
+                "file": "ifsp/Modelagem de Sistemas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Modelagem de Sistemas"
             }
           },
           {
@@ -132,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -144,7 +198,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -152,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -161,8 +219,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ifsp/Laplace Transform.md"
-              }
+                "file": "ifsp/Modelagem de Sistemas.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Modelagem de Sistemas"
             }
           }
         ],
@@ -182,16 +242,28 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9001de2a2547d516",
+  "active": "e5b0ead15695aaa3",
   "lastOpenFiles": [
-    "ifsp/Modelagem de Sistemas.md",
-    "ifsp/00_Digital Systems and Electronics.md",
-    "ifsp/Calculus Cheat Sheet.md",
     "ifsp/problem lists/MODEL_L1.pdf",
+    "ifsp/Differential Equations.md",
+    "ifsp/00_Calculus.md",
+    "ifsp/Calculus Cheat Sheet.md",
+    "ifsp/problem lists/control_modelling_solved_problems.md",
+    "ifsp/pdfs/model_pdf1.pdf",
+    "ifsp/images/cascaded_rc_circuit.png",
+    "ifsp/problem lists/Pasted image 20241125200424.png",
+    "ifsp/images/rlc_system.png",
+    "ifsp/images/two_cart.png",
+    "ifsp/Thermodynamics.md",
+    "ifsp/Modelagem de Sistemas.md",
+    "ifsp/MODEL_Cheatsheet.md",
+    "ifsp/pdfs/model_pdf2.pdf",
+    "ifsp/images/singlecartp.png",
+    "ifsp/Laplace Transform.md",
+    "ifsp/00_Digital Systems and Electronics.md",
     "attachments/LaTeX Cheatsheet.md",
     "attachments/pict1_latex4.C.png",
     "compsci/python deep dive.md",
@@ -209,32 +281,18 @@
     "compsci/Untitled 1.md",
     "compsci/SQL Cheat Sheet.md",
     "Home.canvas",
-    "ifsp/00_Calculus.md",
-    "ifsp/pdfs/model_pds1.pdf",
     "ifsp/pdfs/laplace1.pdf",
-    "ifsp/pdfs/model_pdf2.pdf",
     "ifsp/pdfs/eletronica-de-potencia-muhhamad-h-rashid.pdf",
     "ifsp/pdfs/circuit_cheat_sheet.pdf",
     "ifsp/Limits.md",
-    "ifsp/Laplace Transform.md",
-    "ifsp/Digital Systems.md",
-    "ifsp/l1_model.md",
-    "ifsp/energy_conversion.md",
-    "ifsp/L2_model.md",
-    "ifsp/Integrals.md",
     "ifsp/images/PolarForm_Img4.png",
     "ifsp/images/PolarForm_Img3.png",
     "ifsp/images/PolarForm_Img2.png",
     "ifsp/images/PolarForm_Img1.png",
-    "life/Images/Kitty.jpg",
     "life/Images",
-    "life/Images/Athena.jpg",
     "life",
     "attachments/hackerrank.py",
     "ifsp/books and pds/circuit_cheat_sheet.pdf",
-    "attachments/3.gif",
-    "Untitled 1.canvas",
-    "Pasted image 20230925224459.png",
-    "Pasted image 20230925222052.png"
+    "Untitled 1.canvas"
   ]
 }
