@@ -40,3 +40,48 @@ $$\begin{align*}
 \\
 &x^3\frac{d^3y}{dx^3}-x^2\frac{d^2y}{dx^2}+3x\frac{du}{dx}+5y=e^x &(3)
 \end{align*}$$
+
+Any equation $y=f(x)$, that, put into the differential equation, reduces it to an identity, is called a solution to the equation. E.g.:
+
+
+$$\begin{align}
+&y\frac{x^4}{16}\rightarrow y\prime=xy^{1/2} &(1)
+\\\\
+&y=xe^x \rightarrow y\prime\prime-2y\prime+y=0 &(2)
+\end{align}$$
+
+###### Problem 1.
+
+$$\begin{align}
+&y^{1/2} = \sqrt{y} &(1)
+\\
+&\frac{dy}{dx} = x\sqrt{2} &(2)
+\end{align}$$
+To isolate x and y we can treat $dy/dx$ as a common fraction.
+
+$$\begin{align}
+&dy = x\sqrt{y}\space dx &(1)
+\\
+&\frac{dy}{\sqrt{y}}=xdx &(2)
+\\
+\\
+&\int y^{-1/2}dy=\int xdx &(3)
+\\
+&\int y^{-1/2}dy =2\sqrt{2} &(4)
+\\
+&2\sqrt{y}=\frac{x^2}{2}+C &(4)
+\\
+&\sqrt{y}=(\frac{x^2}{4}+\frac{C}{2}), \space \frac{C}{2}=K &(5)
+\\
+&y = (\frac{x^2}{4}+k)^2 &(6)
+\\
+&\text{or as a general solution: }y=\frac{x^4}{16} &(7)
+\end{align}$$
+
+
+
+
+
+.$$\begin{align}
+
+\end{align}$$

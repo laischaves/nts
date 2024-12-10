@@ -15,7 +15,7 @@
 > number of breaks in it and doesn’t blow up to infinity anywhere.
 
 The integral form of the transform is an improper integral and improper
-[[integrals]] must be solved by converting it to a limit.
+[[Integrals]] must be solved by converting it to a limit.
 
 ## Properties
 1) Linearidade Se c1 e c2 são constantes e e são

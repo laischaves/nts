@@ -60,7 +60,7 @@ do sinal;
         - média potência (centenas de $mV$, $I_C$ em $mA$, $P_C$ em centenas
         de $mW$
         - etc.
-> ![amps by frequency](images/img_000_amp_class_freq.png)
+> ![amps by frequency](img_000_amp_class_freq.png)
 
 - o **transistor** utilizado é o principal determinante das frequências e níveis
         de uso do amplificador;

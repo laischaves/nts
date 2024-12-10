@@ -10,7 +10,7 @@ is a function, F(x), such that F'(x) = f(x).
 
 ## Improper Integrals
 
-An improper integral is an integral with one or more infinite [[limits]]
+An improper integral is an integral with one or more infinite [[Limits]]
 and/or discontinuous integrands.
 Integral is called convergent if the limit exists and has a finite
 value and divergent if the limit doesn’t exist or has infinite value.

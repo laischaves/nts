@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d0dd512d12157a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e39c4e0d23cce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1af2f64f6813752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "engineering/Differential Equations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Differential Equations"
+            }
+          },
+          {
+            "id": "e8227e3ee1e4072d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "engineering/Growth Rates and e.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Growth Rates and e"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39a28c65f66735ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "117fefd066a44207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2331902d91dc7f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b69b1db530dd5716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85244a490a7f7ee2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b10eae842fc02148",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bf5852468c5e29d",
+    "type": "split",
+    "children": [
+      {
+        "id": "524050f07384b6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2f95169bf40406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "engineering/Differential Equations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Differential Equations"
+            }
+          },
+          {
+            "id": "8715e0a6d49dbb6d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "25ca5ad867fe9d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "engineering/Differential Equations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Differential Equations"
+            }
+          },
+          {
+            "id": "86597feb41d83db1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c1af2f64f6813752",
+  "lastOpenFiles": [
+    "engineering/Growth Rates and e.md",
+    "engineering/Differential Equations.md",
+    "engineering/Modelagem de Sistemas.md",
+    "engineering/MODEL_Cheatsheet.md",
+    "engineering/chat_transcript.md"
+  ]
+}

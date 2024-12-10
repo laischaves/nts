@@ -57,7 +57,7 @@ e forçada enquanto a total é muito grande.
 
 **Figura 1 Processo de projeto de sistema de controle:**
 
-![figura 1.11 do livro](./images/model_fig_001_processo.png)
+![figura 1.11 do livro](model_fig_001_processo.png)
 
 
 
