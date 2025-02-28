@@ -1,0 +1,185 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "AWS Framework": "",
+      "AWS Service": "",
+      "Basic": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Basic+": "",
+      "Cloze": "",
+      "Image Occlusion": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "AWS Framework": "aspect",
+      "AWS Service": "service",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Basic+": "Front",
+      "Cloze": "Text",
+      "Image Occlusion": "Occlusion"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "attachments": "",
+      "compsci": "",
+      "economy": "",
+      "engineering": "",
+      "fiction": "",
+      "life": "",
+      "Anki": "",
+      "engineering/ex_c": "",
+      "engineering/images": "",
+      "engineering/pdfs": "",
+      "engineering/problem lists": "",
+      "life/Images": "",
+      "engineering/ex_c/images": ""
+    },
+    "FOLDER_TAGS": {
+      "attachments": "",
+      "compsci": "",
+      "economy": "",
+      "engineering": "",
+      "fiction": "",
+      "life": "",
+      "Anki": "",
+      "engineering/ex_c": "",
+      "engineering/images": "",
+      "engineering/pdfs": "",
+      "engineering/problem lists": "",
+      "life/Images": "",
+      "engineering/ex_c/images": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "fiction/wenclair.md": "7c70ca9d80a0a6ead1fa3c995c4cace6",
+    "engineering/quine_mccluskey_algorithm.md": "7b6ae2dfca6fca20db844220c484e2b9",
+    "engineering/problem lists/control_modelling_solved_problems.md": "0f228e578972f24b31c9f833f70fd287",
+    "engineering/microcontrollers.md": "e8e37372a2c4fb37d2f4599ea625c97e",
+    "engineering/l1_model.md": "7a4aef82d19578bad6fc56694b5760da",
+    "engineering/ex_c/PLC.md": "ccb7a913c4a147622bb1dda58d938e7c",
+    "engineering/ex_c/Career Plan.md": "1e5bd16249b12dbcd07da4b10bb68159",
+    "engineering/energy_conversion.md": "d8337a744d14793a992804ffa8b28600",
+    "engineering/Thermodynamics.md": "b22ac703dcda2766a06364fd8421a282",
+    "engineering/Quine-McCluskey Algorithm.md": "7b6ae2dfca6fca20db844220c484e2b9",
+    "engineering/Power Electronics.md": "465a88b79ec788f256d81a27e427159b",
+    "engineering/Poles.md": "879c55805666be85ed9e7a6ccd57da2f",
+    "engineering/Polar Form.md": "14956133be2bce80cbfd5bef2b767e6f",
+    "engineering/PLC.md": "a3d79c93d4d4e2f16576822f6aefc692",
+    "engineering/P.U..md": "4065384b88afbf3d3ec3880e38e3bcd4",
+    "engineering/Máquinas Elétricas e Conversão de Energia.md": "222a91b5078eb7471e006b1189bd5e46",
+    "engineering/Modelagem de Sistemas.md": "b7ff0e24277c0214a233a49941d3e438",
+    "engineering/MOS.md": "cc2960f44f3acd8611a0468e79ad7912",
+    "engineering/MODEL_Cheatsheet.md": "48a58d7d02687061e24bd72f54ced3c0",
+    "engineering/Limits.md": "02b590afd27564f12ed452dd669d1e9a",
+    "engineering/Laplace Transform.md": "b0f8b92f5ff591ed6361c253af2814d6",
+    "engineering/L2_model.md": "051b5b2140739b2d8d090436611540c6",
+    "engineering/Integrals.md": "c3b3960f7a80aa70828a9c327a6e7199",
+    "engineering/Growth Rates and e.md": "e6c6c62c6da11741701e5fdbbcd1b4a6",
+    "engineering/Electronics.md": "a90c36d8861b69face78028278036800",
+    "engineering/Electromagnetism.md": "f702245ecf726f71d712f41db5a43d00",
+    "engineering/Digital Systems.md": "729fe7835c2b40e07e5b8cd20b73f04d",
+    "engineering/Differential Equations.md": "ad293769d5565d1a9f7b0ebef37a445d",
+    "engineering/Complex numbers.md": "e7b8a3d7ab88f8f634d0df3a7cad3464",
+    "engineering/Circuit_Analysis.md": "a53bd3d1708b9e21dcb4d8bed0508bca",
+    "engineering/Calculus Cheat Sheet.md": "7f50552e66ff70dc9fbaa3fc1171119a",
+    "engineering/Automation.md": "420230a2bc3993a1c285733c968d7051",
+    "engineering/00_Electricity.md": "69759c5550a7d5c218bf53476d4cd2d9",
+    "engineering/00_Digital Systems and Electronics.md": "7ee93114d6edc7f74459c0ab532f4176",
+    "engineering/00_Calculus.md": "856d01000eb3e8218a9394be9fc3ca21",
+    "economy/Fundamentals of Financial Services.md": "9bffcaa379d7552a11090cbc2fafabc6",
+    "compsci/python functions and features to remember.md": "2a4fb3e3e63ea789e2d3c5c6a6dd88c6",
+    "compsci/psql.md": "b8d8214c39f5d7506f0d1844f5cc7c3c",
+    "compsci/dotfiles.md": "97a8beaad6b82615150672f2ca58e404",
+    "compsci/aws.md": "1950615c06d4712ee9e78b3c0af9cd4c",
+    "compsci/SQL Cheat Sheet.md": "1ae2bed4de88519754cd743b262a7088",
+    "compsci/R.md": "73c9f66849bf07d0efce864a1062c0f3",
+    "compsci/Python.md": "75d2ef4dad28aaee271ed79bc7f3e62b",
+    "compsci/Presentation.md": "5d9780dfc2a9f9d9d1fa5ec75247f0de",
+    "compsci/Pentaho.md": "5adc69cca8d68c79a4b1f49d62f5d0b3",
+    "compsci/Networks.md": "84fb87d0c1b96e1585d87e6a694ff105",
+    "compsci/Monolith.md": "b643d0752bbb8aa6421013c594aabb5a",
+    "compsci/Microservices.md": "9421f47346ebd08a47ac6591b7c9a59b",
+    "compsci/Kubernetes.md": "7882c36586c47a7b2cbfd1c7bec4dc97",
+    "compsci/DevOps Terms.md": "a6c95f85644569cac17dff24b3ddb2f7",
+    "compsci/Containers.md": "bd05dae562ca70287d806e4570445eae",
+    "compsci/Blockchain.md": "346deb515a8e10b6014b3e503eb033c7",
+    "compsci/AWS_Cloud_Computing.md": "ca790f1b87c5c67221cb42dd8f2f79ff",
+    "compsci/APIs.md": "afc98338397b3768de27ce2122ca2998",
+    "attachments/LaTeX Cheatsheet.md": "b1ef4ebf77612e74e06b07109cfa91de",
+    "anki_aws.md": "7d06035568279aa0e4c78712ce70ca28",
+    "Anki/anki_aws.md": "618c0c7f0e4f4b77990fa5f78d2e1135"
+  },
+  "fields_dict": {
+    "AWS Framework": [
+      "aspect",
+      "description",
+      "framework"
+    ],
+    "AWS Service": [
+      "service",
+      "description"
+    ],
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Basic+": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Image Occlusion": [
+      "Occlusion",
+      "Image",
+      "Header",
+      "Back Extra",
+      "Comments"
+    ]
+  }
+}

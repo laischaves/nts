@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"fa0576572320e557","type":"file","file":"life/Images/Athena.jpg","x":-1560,"y":-800,"width":305,"height":460},
+		{"id":"91a6003d4d2659fd","type":"file","file":"life/Images/Kitty.jpg","x":-1220,"y":-800,"width":305,"height":305},
+		{"id":"207f1458223489f1","type":"text","text":"don't follow your mood, follow your plan","x":-1560,"y":-1060,"width":287,"height":125}
+	],
+	"edges":[]
+}

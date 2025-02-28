@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "5a61585aa3807249",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b711045b758b7cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "nts/Home.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eba524d11f517b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d66aa2bb751229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb0788a51943d26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "34546209ab9907c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hugo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee2df2a5daa704ad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "dd6a9c56cfade9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "77436d51f73e5316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0279e0c3e9f4fb58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nts/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ace37f6ec080f02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nts/Home.md"
+              }
+            }
+          },
+          {
+            "id": "288b2ed3c9632ec8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f819655fb0378f31",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d597ecdcd9e27cf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.2735900878906
+  },
+  "active": "6b711045b758b7cb",
+  "lastOpenFiles": [
+    "Home.md",
+    "README.md",
+    "ex_c/robotics_01_aerial_robotics.md",
+    "ex_c/SQL Cheat Sheet.md",
+    "ex_c/psql.md",
+    "ex_c/My Power BI Notes.md",
+    "ex_c/Blockchain.md",
+    "ex_c/Career Plan.md",
+    "ifsp/Automation.md",
+    "ifsp/Limits.md"
+  ]
+}

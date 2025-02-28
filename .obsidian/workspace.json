@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "economy/DI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39a28c65f66735ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "117fefd066a44207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2331902d91dc7f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b69b1db530dd5716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85244a490a7f7ee2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b10eae842fc02148",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4ad433d8deba2b14",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bf5852468c5e29d",
+    "type": "split",
+    "children": [
+      {
+        "id": "524050f07384b6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2f95169bf40406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "engineering/Differential Equations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Differential Equations"
+            }
+          },
+          {
+            "id": "8715e0a6d49dbb6d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "25ca5ad867fe9d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "engineering/Differential Equations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Differential Equations"
+            }
+          },
+          {
+            "id": "86597feb41d83db1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ee39152b49fd8f59",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0097fddab98bcb46",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "749fd4b4aed8c84b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "code-files:Create Code File": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "economy/DV01.md",
+    "Home.canvas",
+    "economy/Problem.md",
+    "economy/Fundamentals of Financial Services.md",
+    "economy/ndf usdbrl de balcão.md",
+    "economy/DI.md",
+    "economy/contratos futuros de juros.md",
+    "economy/ativo subjacente.md",
+    "engineering/Poles.md",
+    "engineering/Pasted image 20250103202646.png",
+    "engineering/Partial Fractions.md",
+    "economy",
+    "compsci/Presentation.md",
+    "Anki/anki_aws.md",
+    "Anki",
+    "finance",
+    "compsci/aws.md",
+    "compsci/APIs.md~",
+    "compsci/APIs.md",
+    "compsci/Python.md~",
+    "compsci/Monolith.md",
+    "compsci/Python.md",
+    "compsci/SQL Cheat Sheet.md",
+    "compsci/python functions and features to remember.md",
+    "compsci/python deep dive.md",
+    "compsci/AWS_Cloud_Computing.md",
+    "engineering/microcontrollers.md",
+    "engineering/Limits.md",
+    "engineering/Laplace Transform.md",
+    "engineering/Electronics.md",
+    "engineering/energy_conversion.md",
+    "engineering/Electromagnetism.md",
+    "anki.txt"
+  ]
+}
