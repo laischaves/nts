@@ -228,42 +228,80 @@ Subrogation: The process by which an insurance company seeks reimbursement from 
 
 
 
-####  Stock Exchange
-Stock: A share in the ownership of a company, representing a claim on part of the company's assets and earnings.
-Capital Markets: The financial markets where long-term debt or equity-backed securities are bought and sold, facilitating the transfer of capital from investors to businesses. Dividend: A distribution of a portion of a company's earnings to its shareholders.
-Dividend Yield: The annual dividend income per share divided by the price per share, expressed as a percentage.
-Growth stock: A stock expected to grow at an above-average rate compared to other companies in the market.
-Dividend Stock: Dividend Stock held primarily for the dividend payments.
-Initial Public Offering (IPO): The first sale of stock by a private company to the public, usually on a stock exchange.
-Securities: Financial assets such as stocks and bonds that can be traded in financial markets. Volatility: A statistical measure of the dispersion of returns for a given security or market index. Bear Market: A market characterized by declining prices over an extended period, typically accompanied by pessimism among investors.
-Bull Market: A market characterized by increasing prices over an extended period, typically accompanied by optimism among investors.
-Blue Chip Stocks: Stocks of well-established companies with a history of stable earnings and dividends.
-Exchange-Traded Fund (ETF): A type of investment fund traded on stock exchanges, like stocks, that holds assets such as stocks, commodities, or bonds.
-Risk Tolerance: An investor's ability and willingness to withstand fluctuations in the value of their investments.
-Short Selling: Selling a security that the seller does not own, with the intention of buying it back at a lower price.
-Going Long: Buying a stock with the intention to hold it, believing the prices will rise.
+
+#### Stock Exchange
+
+**Stock:** A share in the ownership of a company, representing a claim on part of the company's assets and earnings.
+
+**Capital Markets:** The financial markets where long-term debt or equity-backed securities are bought and sold, facilitating the transfer of capital from investors to businesses.
+
+**Dividend:** A distribution of a portion of a company's earnings to its shareholders.
+
+**Dividend Yield:** The annual dividend income per share divided by the price per share, expressed as a percentage.
+
+**Growth stock:** A stock expected to grow at an above-average rate compared to other companies in the market.
+
+**Dividend Stock:** Dividend Stock held primarily for the dividend payments.
+
+**Initial Public Offering (IPO):** The first sale of stock by a private company to the public, usually on a stock exchange.
+
+**Securities:** Financial assets such as stocks and bonds that can be traded in financial markets.
+
+**Volatility:** A statistical measure of the dispersion of returns for a given security or market index.
+
+**Bear Market:** A market characterized by declining prices over an extended period, typically accompanied by pessimism among investors.
+
+**Bull Market:** A market characterized by increasing prices over an extended period, typically accompanied by optimism among investors.
+
+**Blue Chip Stocks:** Stocks of well-established companies with a history of stable earnings and dividends.
+
+**Exchange-Traded Fund (ETF):** A type of investment fund traded on stock exchanges, like stocks, that holds assets such as stocks, commodities, or bonds.
+
+**Risk Tolerance:** An investor's ability and willingness to withstand fluctuations in the value of their investments.
+
+**Short Selling:** Selling a security that the seller does not own, with the intention of buying it back at a lower price.
+
+**Going Long:** Buying a stock with the intention to hold it, believing the prices will rise.
 
 
-####  Foreign Exchange (FX)
-Foreign Exchange (FX): The exchange of one currency for another.
-Exchange Rate (FX): The value of one currency expressed in terms of another currency.
-Spot Rate: The current exchange rate at which a currency pair can be bought or sold for immediate delivery.
-Forward Rate: The exchange rate at which a currency pair can be bought or sold for delivery at a future date.
-Bid Price: The price at which a trader is willing to buy a currency pair.
-Ask Price: The price at which a trader is willing to sell a currency pair.
-Spread: The difference between the bid and ask price of a currency pair.
-Pip: The smallest price movement in a currency pair, usually the fourth decimal place.
-Base Currency: The first currency listed in a currency pair, which determines the value of the pair.
-Quote Currency: The second currency listed in a currency pair, which shows the value of one unit of the base currency.
-Major Currency Pairs: The most traded currency pairs in the forex market, including EUR/USD, USD/JPY, GBP/USD, and USD/CHF.
-Cross Currency Pairs: Currency pairs that do not involve the US dollar, such as EUR/GBP or AUD/JPY Long Position: Buying a currency pair in anticipation of its value increasing.
-Short Position: Selling a currency pair in anticipation of its value decreasing.
-Liquidity: The ease with which a currency pair can be bought or sold without causing significant price movements.
-Volatility: The degree of variation in the price of a currency pair over time.
-Interest Rate Differential: The difference in interest rates between two countries, which can affect currency exchange rates.
-Hedging: Using financial instruments to offset the risk of adverse price movements in the forex market.
-Cross border FX transactions: Cross-border transactions involve the movement of funds between ational borders, when it is two different currencies.
 
+#### Foreign Exchange (FX)
+
+**Foreign Exchange (FX):** The exchange of one currency for another.
+
+**Exchange Rate (FX):** The value of one currency expressed in terms of another currency.
+
+**Spot Rate:** The current exchange rate at which a currency pair can be bought or sold for immediate delivery.
+
+**Forward Rate:** The exchange rate at which a currency pair can be bought or sold for delivery at a future date.
+
+**Bid Price:** The price at which a trader is willing to buy a currency pair.
+
+**Ask Price:** The price at which a trader is willing to sell a currency pair.
+
+**Spread:** The difference between the bid and ask price of a currency pair.
+
+**Pip:** The smallest price movement in a currency pair, usually the fourth decimal place.
+
+**Base Currency:** The first currency listed in a currency pair, which determines the value of the pair.
+
+**Quote Currency:** The second currency listed in a currency pair, which shows the value of one unit of the base currency.
+
+**Major Currency Pairs:** The most traded currency pairs in the forex market, including EUR/USD, USD/JPY, GBP/USD, and USD/CHF.
+
+**Cross Currency Pairs:** Currency pairs that do not involve the US dollar, such as EUR/GBP or AUD/JPY Long Position:** Buying a currency pair in anticipation of its value increasing.
+
+**Short Position:** Selling a currency pair in anticipation of its value decreasing.
+
+**Liquidity:** The ease with which a currency pair can be bought or sold without causing significant price movements.
+
+**Volatility:** The degree of variation in the price of a currency pair over time.
+
+**Interest Rate Differential:** The difference in interest rates between two countries, which can affect currency exchange rates.
+
+**Hedging:** Using financial instruments to offset the risk of adverse price movements in the forex market.
+
+**Cross border FX transactions:** Cross-border transactions involve the movement of funds between ational borders, when it is two different currencies.
 
 
 ####  Commodities

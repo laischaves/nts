@@ -1,36 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "DI",
-      "path": "economy/DI.md"
-    },
-    {
-      "basename": "DV01",
-      "path": "economy/DV01.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.canvas"
-    },
-    {
-      "basename": "Problem",
-      "path": "economy/Problem.md"
-    },
-    {
-      "basename": "Fundamentals of Financial Services",
-      "path": "economy/Fundamentals of Financial Services.md"
-    },
-    {
-      "basename": "ndf usdbrl de balcão",
-      "path": "economy/ndf usdbrl de balcão.md"
+      "basename": "prob2",
+      "path": "economy/prob2.md"
     },
     {
       "basename": "contratos futuros de juros",
       "path": "economy/contratos futuros de juros.md"
     },
     {
+      "basename": "fx",
+      "path": "economy/fx.md"
+    },
+    {
+      "basename": "forward",
+      "path": "economy/forward.md"
+    },
+    {
+      "basename": "ndf usdbrl de balcão",
+      "path": "economy/ndf usdbrl de balcão.md"
+    },
+    {
+      "basename": "dv01",
+      "path": "economy/dv01.md"
+    },
+    {
+      "basename": "di",
+      "path": "economy/di.md"
+    },
+    {
+      "basename": "Fundamentals of Financial Services",
+      "path": "economy/Fundamentals of Financial Services.md"
+    },
+    {
       "basename": "ativo subjacente",
       "path": "economy/ativo subjacente.md"
+    },
+    {
+      "basename": "stocks",
+      "path": "economy/stocks.md"
+    },
+    {
+      "basename": "risk",
+      "path": "economy/risk.md"
+    },
+    {
+      "basename": "prob1",
+      "path": "economy/prob1.md"
+    },
+    {
+      "basename": "deepdive_testcode",
+      "path": "deepdive_testcode.py"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.canvas"
     },
     {
       "basename": "aws",
