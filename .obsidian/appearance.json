@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Typora-Vue",
+  "cssTheme": "Things",
   "textFontFamily": "",
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "monospaceFontFamily": "DepartureMono Nerd Font Mono",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "accentColor": "#4275b8"
+  "accentColor": "#ed50ab"
 }

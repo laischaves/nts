@@ -13,3 +13,7 @@ A 1ª reunião do COPOM será em 03/fev/2022 e os agentes de mercado acreditam q
 PERGUNTA
 
 Qual a taxa média anualizada de hoje até 01/jun/2022?
+
+
+![[Pasted image 20250306214517.png]]
+![[Pasted image 20250306214632.png]]

@@ -1,40 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "prob2",
-      "path": "economy/prob2.md"
+      "basename": "juros",
+      "path": "economy/juros.md"
     },
     {
-      "basename": "contratos futuros de juros",
-      "path": "economy/contratos futuros de juros.md"
+      "basename": "capitalização",
+      "path": "economy/capitalização.md"
     },
     {
       "basename": "fx",
       "path": "economy/fx.md"
     },
     {
-      "basename": "forward",
-      "path": "economy/forward.md"
+      "basename": "contratos futuros de juros",
+      "path": "economy/contratos futuros de juros.md"
     },
     {
-      "basename": "ndf usdbrl de balcão",
-      "path": "economy/ndf usdbrl de balcão.md"
+      "basename": "Home",
+      "path": "Home.canvas"
     },
     {
-      "basename": "dv01",
-      "path": "economy/dv01.md"
+      "basename": "ativo subjacente",
+      "path": "economy/ativo subjacente.md"
     },
     {
       "basename": "di",
       "path": "economy/di.md"
     },
     {
-      "basename": "Fundamentals of Financial Services",
-      "path": "economy/Fundamentals of Financial Services.md"
+      "basename": "dv01",
+      "path": "economy/dv01.md"
     },
     {
-      "basename": "ativo subjacente",
-      "path": "economy/ativo subjacente.md"
+      "basename": "forward",
+      "path": "economy/forward.md"
+    },
+    {
+      "basename": "Pasted image 20250306214632",
+      "path": "economy/Pasted image 20250306214632.png"
+    },
+    {
+      "basename": "prob1",
+      "path": "economy/prob1.md"
+    },
+    {
+      "basename": "prob2",
+      "path": "economy/prob2.md"
+    },
+    {
+      "basename": "ndf usdbrl de balcão",
+      "path": "economy/ndf usdbrl de balcão.md"
+    },
+    {
+      "basename": "Fundamentals of Financial Services",
+      "path": "economy/Fundamentals of Financial Services.md"
     },
     {
       "basename": "stocks",
@@ -45,16 +65,8 @@
       "path": "economy/risk.md"
     },
     {
-      "basename": "prob1",
-      "path": "economy/prob1.md"
-    },
-    {
       "basename": "deepdive_testcode",
       "path": "deepdive_testcode.py"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.canvas"
     },
     {
       "basename": "aws",
