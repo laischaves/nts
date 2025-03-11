@@ -6,5 +6,3 @@ O **NDF USDBRL de balcão** é um contrato de derivativo financeiro negociado fo
 - **Liquidação financeira**: A compensação ocorre pela diferença entre a taxa de câmbio acordada e a taxa vigente no vencimento, multiplicada pelo notional.
 - **Proteção cambial (hedge)**: Usado por empresas e investidores para mitigar riscos associados à volatilidade do câmbio.
 - **Especulação**: Traders podem usá-lo para apostar em movimentos da taxa de câmbio sem necessidade de comprar ou vender moeda física.
-
-Se quiser incluir essa explicação no seu documento, me avise!

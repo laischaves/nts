@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ndf usdbrl de balcão",
+      "path": "economy/ndf usdbrl de balcão.md"
+    },
+    {
       "basename": "juros",
       "path": "economy/juros.md"
-    },
-    {
-      "basename": "capitalização",
-      "path": "economy/capitalização.md"
-    },
-    {
-      "basename": "fx",
-      "path": "economy/fx.md"
     },
     {
       "basename": "contratos futuros de juros",
       "path": "economy/contratos futuros de juros.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.canvas"
+      "basename": "capitalização",
+      "path": "economy/capitalização.md"
     },
     {
       "basename": "ativo subjacente",
@@ -33,12 +29,20 @@
       "path": "economy/dv01.md"
     },
     {
+      "basename": "exposicao cambial",
+      "path": "economy/exposicao cambial.md"
+    },
+    {
       "basename": "forward",
       "path": "economy/forward.md"
     },
     {
-      "basename": "Pasted image 20250306214632",
-      "path": "economy/Pasted image 20250306214632.png"
+      "basename": "Home",
+      "path": "Home.canvas"
+    },
+    {
+      "basename": "fx",
+      "path": "economy/fx.md"
     },
     {
       "basename": "prob1",
@@ -47,10 +51,6 @@
     {
       "basename": "prob2",
       "path": "economy/prob2.md"
-    },
-    {
-      "basename": "ndf usdbrl de balcão",
-      "path": "economy/ndf usdbrl de balcão.md"
     },
     {
       "basename": "Fundamentals of Financial Services",
