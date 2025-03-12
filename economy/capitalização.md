@@ -11,6 +11,7 @@ Neste regime, os juros são gerados apenas pelo capital P inicialmente investido
 - Juros gerados durante o 1º intervalo unitário de tempo $j_n=P\times i$
 
 Os juros totais ao final de _n_ intervalos:
+
 $$\begin{matrix*}[c]
 J = j_1 + j_2 + j_3 + \dots + j_n \space(n \text{ parcelas})
 \\\\
@@ -36,7 +37,8 @@ Neste regine, os juros (formados no fim de cada intervalo _n_) são gerados pelo
 
 > O modelo associado considera uma taxa constante, com um o intervalo unitário de tempo, ao fim do qual os juros resultantes são incorporados ao capital.
 
-Sabendo que J = P x i, no fim do 1º intervalo _n_: 
+Sabendo que J = P x i, no fim do 1º intervalo _n_:
+
 $$
 \begin{matrix*}[c]
 J_1 = P \times i \\
@@ -45,13 +47,14 @@ F_1 = P + J_1 = P (1 + i)
 \end{matrix*}$$
 E no fim do segundo:
 $$\begin{matrix*}[c]
-J_2 = F_1 \times i \\ 
-\text{ e } \\ 
+J_2 = F_1 \times i \\
+\text{ e } \\
 F_2 = F_1 + J_2
 = P(1+i) +P\times i
 \\
 = P (1 + i)^2
 \end{matrix*}$$
+
 E do terceiro;
 
 $$\begin{matrix*}[c]
@@ -59,10 +62,11 @@ J_3 = F_2 \times i \\
 \text{ e } \\
 F_3 = F_2 + J_3 = P (1 + i)^3
 \end{matrix*}$$
+
 Pode se generalizar:
 
 
-$$ F = P(1+i)^n $$
+$$F = P(1+i)^n$$
 
 > ==$i = (\frac{F}{P})^{\frac{1}{n}} - 1$ também é chamada **taxa efetiva da operação**==
 ##### Exemplo 1:
@@ -93,8 +97,8 @@ F = P(1 + i)^n \Rightarrow \frac{F}{P}=(1+i)^n
 \\
 i = (\frac{F}{P})^{\frac{1}{n}} - 1
 \\
-
 \end{matrix*}$$
+
 ```excel
 =POWER([@F]/[@P];1/[@T])-1
 ```
