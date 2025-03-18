@@ -7,3 +7,5 @@ Os ativos subjacentes são negociados em mercados à vista, ou “spot”. 
 Derivativos são instrumentos financeiros que se baseiam no valor do ativo subjacente. São usados para especular sobre as mudanças no preço do ativo subjacente ou para gerenciar o risco financeiro. 
 
 Alguns exemplos de derivativos: Futuros, Opções, Swaps, Warrants.
+
+..

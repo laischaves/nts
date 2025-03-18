@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "economy/ndf usdbrl de balcão.md",
+                "file": "economy/ativo subjacente.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ndf usdbrl de balcão"
+              "title": "ativo subjacente"
             }
           }
         ]
@@ -230,31 +230,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "economy/juros.md",
-    "economy/ndf usdbrl de balcão.md",
-    "economy/contratos futuros de juros.md",
-    "economy/capitalização.md",
+    "Anki/anki_aws.md",
     "economy/ativo subjacente.md",
-    "economy/di.md",
-    "economy/dv01.md",
+    "economy/capitalização.md",
+    "deepdive_testcode.py",
+    "Home.canvas",
+    "economy/DV01.md",
     "economy/exposicao cambial.md",
     "economy/forward.md",
-    "economy/Pasted image 20250306214632.png",
-    "economy/Pasted image 20250306214517.png",
-    "Home.canvas",
+    "economy/Fundamentals of Financial Services.md",
     "economy/fx.md",
+    "economy/juros.md",
+    "economy/ndf usdbrl de balcão.md",
     "economy/prob1.md",
     "economy/prob2.md",
-    "economy/Fundamentals of Financial Services.md",
-    "economy/stocks.md",
     "economy/risk.md",
-    "deepdive_testcode.py",
+    "economy/stocks.md",
+    "economy/contratos futuros de juros.md",
+    "economy/di.md",
+    "economy/dv01.md",
+    "economy/Pasted image 20250306214632.png",
+    "economy/Pasted image 20250306214517.png",
     "engineering/Poles.md",
     "engineering/Pasted image 20250103202646.png",
     "engineering/Partial Fractions.md",
     "economy",
     "compsci/Presentation.md",
-    "Anki/anki_aws.md",
     "Anki",
     "finance",
     "compsci/aws.md",
@@ -264,8 +265,6 @@
     "compsci/Monolith.md",
     "compsci/Python.md",
     "compsci/SQL Cheat Sheet.md",
-    "compsci/python functions and features to remember.md",
-    "compsci/python deep dive.md",
     "anki.txt"
   ]
 }
