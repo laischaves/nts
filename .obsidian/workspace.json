@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "economy/ativo subjacente.md",
-                "mode": "preview",
-                "source": false
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": -1237.5,
+                  "y": -650,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "ativo subjacente"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -41,7 +44,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,8 +83,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
@@ -90,8 +93,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -147,40 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "engineering/Differential Equations.md"
+                "file": "economy/fixings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Differential Equations"
-            }
-          },
-          {
-            "id": "86597feb41d83db1",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ee39152b49fd8f59",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0097fddab98bcb46",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of fixings"
             }
           },
           {
@@ -199,14 +175,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "economy/capitalização.md"
+                "file": "economy/fixings.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for capitalização"
+              "title": "File properties for fixings"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -215,8 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "code-files:Create Code File": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,46 +200,57 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "code-files:Create Code File": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Anki/anki_aws.md",
-    "economy/ativo subjacente.md",
-    "economy/capitalização.md",
-    "deepdive_testcode.py",
     "Home.canvas",
-    "economy/DV01.md",
-    "economy/exposicao cambial.md",
-    "economy/forward.md",
-    "economy/Fundamentals of Financial Services.md",
-    "economy/fx.md",
+    "tcc/Untitled 1.base",
+    "tcc/Untitled.base",
+    "tcc/main.canvas",
+    "life/Images/Athena.jpg",
+    "life/Images/Kitty.jpg",
+    "attachments/pict1_latex4.C.png",
+    "attachments/hackerrank.py",
+    "attachments/LaTeX Cheatsheet.md",
+    "fiction/wenclair.md",
+    "deepdive_testcode.py",
+    "tcc",
     "economy/juros.md",
+    "economy/measures.md",
+    "economy/séries de pagamentos.md",
+    "economy/capitalização.md",
+    "economy/contratos futuros de juros.md",
     "economy/ndf usdbrl de balcão.md",
+    "economy/PQO.md",
     "economy/prob1.md",
     "economy/prob2.md",
     "economy/risk.md",
+    "economy/fundos.md",
+    "economy/Fundamentals of Financial Services.md",
     "economy/stocks.md",
-    "economy/contratos futuros de juros.md",
-    "economy/di.md",
-    "economy/dv01.md",
+    "economy/fixings.md",
+    "economy/DV01.md",
+    "economy/Cupom Cambial.md",
+    "economy/derivatives.md",
+    "economy/images/short_position_forward.png",
+    "economy/images",
+    "economy/images/long_position_forward.png",
+    "economy/fx.md",
+    "economy/forward.md",
+    "compsci/Kubernetes.md",
+    "compsci/Presentation.md",
+    "compsci/Microservices.md",
+    "compsci/dotfiles.md",
     "economy/Pasted image 20250306214632.png",
     "economy/Pasted image 20250306214517.png",
-    "engineering/Poles.md",
     "engineering/Pasted image 20250103202646.png",
-    "engineering/Partial Fractions.md",
     "economy",
-    "compsci/Presentation.md",
     "Anki",
     "finance",
-    "compsci/aws.md",
-    "compsci/APIs.md~",
-    "compsci/APIs.md",
-    "compsci/Python.md~",
-    "compsci/Monolith.md",
-    "compsci/Python.md",
-    "compsci/SQL Cheat Sheet.md",
-    "anki.txt"
+    "compsci/APIs.md~"
   ]
 }

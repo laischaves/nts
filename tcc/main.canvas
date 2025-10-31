@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"6c74a2d3afad7ba2","type":"text","text":"Controle adaptativo; Derivativos; Gestão de risco; Sistemas dinâmicos; Volatilidade; Engenharia de Controle.","x":-594,"y":-380,"width":349,"height":120,"color":"#ffffff"},
+		{"id":"af0be3c36ad39a96","type":"text","text":"**Aplicação de Controle Adaptativo na Gestão de Risco de Derivativos em Ambientes Estocásticos**","x":-594,"y":-480,"width":560,"height":80,"color":"#ffffff"},
+		{"id":"8c92d1ea9d57eafb","x":-220,"y":-350,"width":200,"height":90,"type":"text","text":"Arbitrage Pricing Theory (APT)"}
+	],
+	"edges":[]
+}

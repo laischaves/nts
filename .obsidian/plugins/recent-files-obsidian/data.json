@@ -1,48 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "ativo subjacente",
-      "path": "economy/ativo subjacente.md"
+      "basename": "Home",
+      "path": "Home.canvas"
     },
     {
-      "basename": "capitalização",
-      "path": "economy/capitalização.md"
+      "basename": "Untitled 1",
+      "path": "tcc/Untitled 1.base"
+    },
+    {
+      "basename": "Untitled",
+      "path": "tcc/Untitled.base"
+    },
+    {
+      "basename": "main",
+      "path": "tcc/main.canvas"
+    },
+    {
+      "basename": "Athena",
+      "path": "life/Images/Athena.jpg"
+    },
+    {
+      "basename": "Kitty",
+      "path": "life/Images/Kitty.jpg"
+    },
+    {
+      "basename": "pict1_latex4.C",
+      "path": "attachments/pict1_latex4.C.png"
+    },
+    {
+      "basename": "hackerrank",
+      "path": "attachments/hackerrank.py"
+    },
+    {
+      "basename": "LaTeX Cheatsheet",
+      "path": "attachments/LaTeX Cheatsheet.md"
+    },
+    {
+      "basename": "wenclair",
+      "path": "fiction/wenclair.md"
     },
     {
       "basename": "deepdive_testcode",
       "path": "deepdive_testcode.py"
     },
     {
-      "basename": "Home",
-      "path": "Home.canvas"
-    },
-    {
-      "basename": "DV01",
-      "path": "economy/DV01.md"
-    },
-    {
-      "basename": "exposicao cambial",
-      "path": "economy/exposicao cambial.md"
-    },
-    {
-      "basename": "forward",
-      "path": "economy/forward.md"
-    },
-    {
-      "basename": "Fundamentals of Financial Services",
-      "path": "economy/Fundamentals of Financial Services.md"
-    },
-    {
-      "basename": "fx",
-      "path": "economy/fx.md"
-    },
-    {
       "basename": "juros",
       "path": "economy/juros.md"
     },
     {
+      "basename": "measures",
+      "path": "economy/measures.md"
+    },
+    {
+      "basename": "séries de pagamentos",
+      "path": "economy/séries de pagamentos.md"
+    },
+    {
+      "basename": "capitalização",
+      "path": "economy/capitalização.md"
+    },
+    {
+      "basename": "contratos futuros de juros",
+      "path": "economy/contratos futuros de juros.md"
+    },
+    {
       "basename": "ndf usdbrl de balcão",
       "path": "economy/ndf usdbrl de balcão.md"
+    },
+    {
+      "basename": "PQO",
+      "path": "economy/PQO.md"
     },
     {
       "basename": "prob1",
@@ -57,12 +85,80 @@
       "path": "economy/risk.md"
     },
     {
+      "basename": "fundos",
+      "path": "economy/fundos.md"
+    },
+    {
+      "basename": "Fundamentals of Financial Services",
+      "path": "economy/Fundamentals of Financial Services.md"
+    },
+    {
       "basename": "stocks",
       "path": "economy/stocks.md"
     },
     {
-      "basename": "contratos futuros de juros",
-      "path": "economy/contratos futuros de juros.md"
+      "basename": "fixings",
+      "path": "economy/fixings.md"
+    },
+    {
+      "basename": "DV01",
+      "path": "economy/DV01.md"
+    },
+    {
+      "basename": "Cupom Cambial",
+      "path": "economy/Cupom Cambial.md"
+    },
+    {
+      "basename": "derivatives",
+      "path": "economy/derivatives.md"
+    },
+    {
+      "basename": "short_position_forward",
+      "path": "economy/images/short_position_forward.png"
+    },
+    {
+      "basename": "long_position_forward",
+      "path": "economy/images/long_position_forward.png"
+    },
+    {
+      "basename": "fx",
+      "path": "economy/fx.md"
+    },
+    {
+      "basename": "forward",
+      "path": "economy/forward.md"
+    },
+    {
+      "basename": "Kubernetes",
+      "path": "compsci/Kubernetes.md"
+    },
+    {
+      "basename": "Presentation",
+      "path": "compsci/Presentation.md"
+    },
+    {
+      "basename": "Microservices",
+      "path": "compsci/Microservices.md"
+    },
+    {
+      "basename": "dotfiles",
+      "path": "compsci/dotfiles.md"
+    },
+    {
+      "basename": "exposicao cambial",
+      "path": "economy/exposicao cambial.md"
+    },
+    {
+      "basename": "DI",
+      "path": "economy/DI.md"
+    },
+    {
+      "basename": "growth_rate",
+      "path": "economy/growth_rate.md"
+    },
+    {
+      "basename": "ativo subjacente",
+      "path": "economy/ativo subjacente.md"
     },
     {
       "basename": "di",
@@ -103,78 +199,6 @@
     {
       "basename": "microcontrollers",
       "path": "engineering/microcontrollers.md"
-    },
-    {
-      "basename": "Limits",
-      "path": "engineering/Limits.md"
-    },
-    {
-      "basename": "Laplace Transform",
-      "path": "engineering/Laplace Transform.md"
-    },
-    {
-      "basename": "Electronics",
-      "path": "engineering/Electronics.md"
-    },
-    {
-      "basename": "energy_conversion",
-      "path": "engineering/energy_conversion.md"
-    },
-    {
-      "basename": "Electromagnetism",
-      "path": "engineering/Electromagnetism.md"
-    },
-    {
-      "basename": "Digital Systems",
-      "path": "engineering/Digital Systems.md"
-    },
-    {
-      "basename": "Differential Equations",
-      "path": "engineering/Differential Equations.md"
-    },
-    {
-      "basename": "00_Calculus",
-      "path": "engineering/00_Calculus.md"
-    },
-    {
-      "basename": "00_Digital Systems and Electronics",
-      "path": "engineering/00_Digital Systems and Electronics.md"
-    },
-    {
-      "basename": "dotfiles",
-      "path": "compsci/dotfiles.md"
-    },
-    {
-      "basename": "DevOps Terms",
-      "path": "compsci/DevOps Terms.md"
-    },
-    {
-      "basename": "Containers",
-      "path": "compsci/Containers.md"
-    },
-    {
-      "basename": "R",
-      "path": "compsci/R.md"
-    },
-    {
-      "basename": "psql",
-      "path": "compsci/psql.md"
-    },
-    {
-      "basename": "Networks",
-      "path": "compsci/Networks.md"
-    },
-    {
-      "basename": "Growth Rates and e",
-      "path": "engineering/Growth Rates and e.md"
-    },
-    {
-      "basename": "Modelagem de Sistemas",
-      "path": "engineering/Modelagem de Sistemas.md"
-    },
-    {
-      "basename": "MODEL_Cheatsheet",
-      "path": "engineering/MODEL_Cheatsheet.md"
     }
   ],
   "omittedPaths": [],
