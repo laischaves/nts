@@ -1,0 +1,26 @@
+{
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": null,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "rightToLeft": false,
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "source"
+}

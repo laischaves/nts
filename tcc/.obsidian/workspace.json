@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "code-editor",
+              "state": {
+                "file": "02-elementos-textuais/cap1-introducao.tex"
+              },
+              "icon": "lucide-file",
+              "title": "cap1-introducao.tex"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39a28c65f66735ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "117fefd066a44207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2331902d91dc7f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b69b1db530dd5716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85244a490a7f7ee2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b10eae842fc02148",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "4ad433d8deba2b14",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bf5852468c5e29d",
+    "type": "split",
+    "children": [
+      {
+        "id": "524050f07384b6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2f95169bf40406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "engineering/Differential Equations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Differential Equations"
+            }
+          },
+          {
+            "id": "8715e0a6d49dbb6d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "25ca5ad867fe9d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "economy/fixings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of fixings"
+            }
+          },
+          {
+            "id": "749fd4b4aed8c84b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e734d35997bd0a76",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "economy/fixings.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for fixings"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "code-files:Create Code File": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Main.synctex(busy)",
+    "pdflatex18852.fls",
+    "pdflatex20324.fls",
+    "pdflatex9704.fls",
+    "pdflatex20156.fls",
+    "pdflatex12736.fls",
+    "pdflatex8176.fls",
+    "Main.blg",
+    "pdflatex15964.fls",
+    "Main.run.xml",
+    "Main.toc",
+    "tcc/main.canvas",
+    "life/Images/Athena.jpg",
+    "life/Images/Kitty.jpg",
+    "attachments/pict1_latex4.C.png",
+    "attachments/LaTeX Cheatsheet.md",
+    "fiction/wenclair.md",
+    "Home.canvas",
+    "economy/juros.md",
+    "economy/measures.md",
+    "economy/séries de pagamentos.md",
+    "economy/capitalização.md",
+    "economy/contratos futuros de juros.md",
+    "economy/ndf usdbrl de balcão.md",
+    "economy/PQO.md",
+    "economy/prob1.md",
+    "economy/prob2.md",
+    "economy/risk.md",
+    "economy/fundos.md",
+    "economy/Fundamentals of Financial Services.md",
+    "economy/stocks.md",
+    "economy/fixings.md",
+    "economy/DV01.md",
+    "economy/Cupom Cambial.md",
+    "economy/derivatives.md",
+    "economy/images/short_position_forward.png",
+    "economy/images/long_position_forward.png",
+    "economy/fx.md",
+    "economy/forward.md",
+    "compsci/Kubernetes.md",
+    "compsci/Presentation.md",
+    "compsci/Microservices.md",
+    "compsci/dotfiles.md",
+    "economy/Pasted image 20250306214632.png",
+    "economy/Pasted image 20250306214517.png",
+    "engineering/Pasted image 20250103202646.png"
+  ]
+}

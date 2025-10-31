@@ -1,0 +1,202 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{cogley2008}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=34ace2f3f2bc0e1eb92e7dc88ee3df5a}{%
+           family={Cogley},
+           familyi={C\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7befdd517ea754e0194ebd60f235f738}{%
+           family={Sargent},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{19667f8225deea9510d875c73d2b43af}
+      \strng{fullhash}{19667f8225deea9510d875c73d2b43af}
+      \strng{fullhashraw}{19667f8225deea9510d875c73d2b43af}
+      \strng{bibnamehash}{19667f8225deea9510d875c73d2b43af}
+      \strng{authorbibnamehash}{19667f8225deea9510d875c73d2b43af}
+      \strng{authornamehash}{19667f8225deea9510d875c73d2b43af}
+      \strng{authorfullhash}{19667f8225deea9510d875c73d2b43af}
+      \strng{authorfullhashraw}{19667f8225deea9510d875c73d2b43af}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{By positing learning and a pessimistic initial prior, we build a model that disconnects a representative consumer's subjective attitudes toward risk from the high price of risk that a rational-expectations econometrician would deduce from financial market data. We follow Friedman and Schwartz (1963) in hypothesizing that the Great Depression heightened fears of economic instability. We use a robustness calculation to elicit a pessimistic prior for a representative consumer and let him update beliefs via Bayes' law. Learning eventually erases pessimism, but while it persists, pessimism contributes a volatile multiplicative component to the stochastic discount factor that a rational-expectation econometrician would detect. With sufficient initial pessimism, the model generates substantial values for the market price of risk and equity premium and predicts high Sharpe ratios and forecastable excess stock returns.}
+      \field{issn}{03043932}
+      \field{journaltitle}{Journal of Monetary Economics}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{3}
+      \field{shorttitle}{The Market Price of Risk and the Equity Premium}
+      \field{title}{The Market Price of Risk and the Equity Premium: {{A}} Legacy of the {{Great Depression}}?}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{55}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{454\bibrangedash 476}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/j.jmoneco.2008.01.006
+      \endverb
+      \verb{file}
+      \verb C:\Users\User\Zotero\storage\R6DRI62I\Cogley e Sargent - 2008 - The market price of risk and the equity premium A legacy of the Great Depression.pdf
+      \endverb
+    \endentry
+    \entry{fontanaStochasticControlPerspective2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f6e5b5545423bd6262973586c938e5b0}{%
+           family={Fontana},
+           familyi={F\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5405e1aae241f51bdc7e2c9574d2787}{%
+           family={Pavarana},
+           familyi={P\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c14eee98fcf33fe894eb6d0b63d0211e}{%
+           family={Runggaldier},
+           familyi={R\bibinitperiod},
+           given={Wolfgang\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0a42505bd9244bd1161492428c8dde4}
+      \strng{fullhash}{d0a42505bd9244bd1161492428c8dde4}
+      \strng{fullhashraw}{d0a42505bd9244bd1161492428c8dde4}
+      \strng{bibnamehash}{d0a42505bd9244bd1161492428c8dde4}
+      \strng{authorbibnamehash}{d0a42505bd9244bd1161492428c8dde4}
+      \strng{authornamehash}{d0a42505bd9244bd1161492428c8dde4}
+      \strng{authorfullhash}{d0a42505bd9244bd1161492428c8dde4}
+      \strng{authorfullhashraw}{d0a42505bd9244bd1161492428c8dde4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we consider a generic interest rate market in the presence of roll-over risk, which generates spreads in spot/forward term rates. We do not require classical absence of arbitrage and rely instead on a minimal market viability assumption, which enables us to work in the context of the benchmark approach. In a Markovian setting, we extend the control-theoretic approach of Gombani and Runggaldier (Math. Finance 23 (2013) 659–686) and derive representations of spot/forward spreads as value functions of suitable stochastic optimal control problems, formulated under the real-world probability and with power-type objective functionals. We determine endogenously the funding–liquidity spread by relating it to the risk-sensitive optimisation problem of a representative investor.}
+      \field{issn}{0949-2984, 1432-1122}
+      \field{journaltitle}{Finance Stoch}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{A Stochastic Control Perspective on Term Structure Models with Roll-over Risk}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{27}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{903\bibrangedash 932}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1007/s00780-023-00515-z
+      \endverb
+      \verb{file}
+      \verb C:\Users\User\Zotero\storage\ETREMGLU\Fontana et al. - 2023 - A stochastic control perspective on term structure models with roll-over risk.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s00780-023-00515-z
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s00780-023-00515-z
+      \endverb
+    \endentry
+    \entry{gaillardetzRiskControlStrategies2019}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d7b70f0a596f86117863ce76bfa6317f}{%
+           family={Gaillardetz},
+           familyi={G\bibinitperiod},
+           given={Patrice},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d68400caeaf1ce14fa6a778c290b0a6}{%
+           family={Hachem},
+           familyi={H\bibinitperiod},
+           given={Saeb},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \strng{fullhash}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \strng{fullhashraw}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \strng{bibnamehash}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \strng{authorbibnamehash}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \strng{authornamehash}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \strng{authorfullhash}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \strng{authorfullhashraw}{58dd4e45b7fef0b90df08ab2ace5d447}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we consider the pricing of derivative products that involve dynamic hedging strategies and payments within the planning horizon. Equity-indexed annuities (EIAs), Guaranteed investment certificate (GIC), American and Barrier options are typical examples of these products. Our exploration involves evaluation under different assumptions related to the way the risk is tailored by the issuer. The unified constrained discrete stochastic dynamic programming framework presented in this paper makes use of sequential local minimizing strategies related to stochastic transitions. This sequential minimizations takes into account all intermediate requirements and involves several dynamic risk measures modelling. To demonstrate the flexibility of this framework we present numerical examples featuring GICs and point-to-point EIAs.}
+      \field{day}{6}
+      \field{eprintclass}{q-fin}
+      \field{eprinttype}{arXiv}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{note}{Comment: 29 pages}
+      \field{pubstate}{prepublished}
+      \field{title}{Risk-{{Control Strategies}}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.1908.02228
+      \endverb
+      \verb{eprint}
+      \verb 1908.02228
+      \endverb
+      \verb{file}
+      \verb C:\Users\User\Zotero\storage\PIQUXCFD\Gaillardetz e Hachem - 2019 - Risk-Control Strategies.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1908.02228
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1908.02228
+      \endverb
+      \keyw{Quantitative Finance - Pricing of Securities,Quantitative Finance - Risk Management}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

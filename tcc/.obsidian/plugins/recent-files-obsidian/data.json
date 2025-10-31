@@ -1,0 +1,204 @@
+{
+  "recentFiles": [
+    {
+      "basename": "cap1-introducao",
+      "path": "02-elementos-textuais/cap1-introducao.tex"
+    },
+    {
+      "basename": "cap3-citacoes_referencias",
+      "path": "02-elementos-textuais/cap3-citacoes_referencias.tex"
+    },
+    {
+      "basename": "refbase",
+      "path": "refbase.bib"
+    },
+    {
+      "basename": "cap5-conclusao",
+      "path": "02-elementos-textuais/cap5-conclusao.tex"
+    },
+    {
+      "basename": "glossario",
+      "path": "03-elementos-pos-textuais/glossario.aux"
+    },
+    {
+      "basename": "glossario",
+      "path": "03-elementos-pos-textuais/glossario.tex"
+    },
+    {
+      "basename": "apendices",
+      "path": "03-elementos-pos-textuais/apendices.tex"
+    },
+    {
+      "basename": "anexos",
+      "path": "03-elementos-pos-textuais/anexos.tex"
+    },
+    {
+      "basename": "Main",
+      "path": "Main.tex"
+    },
+    {
+      "basename": "Modelo de Ficha Catalográfica",
+      "path": "01-elementos-pre-textuais/Modelo de Ficha Catalográfica.tex"
+    },
+    {
+      "basename": "apendices",
+      "path": "03-elementos-pos-textuais/apendices.aux"
+    },
+    {
+      "basename": "quacomparabd",
+      "path": "06-quadros/quacomparabd.tex"
+    },
+    {
+      "basename": "algoritmo1",
+      "path": "07-algoritmos/algoritmo1.tex"
+    },
+    {
+      "basename": "cap5-conclusao",
+      "path": "02-elementos-textuais/cap5-conclusao.aux"
+    },
+    {
+      "basename": "sumario",
+      "path": "01-elementos-pre-textuais/sumario.aux"
+    },
+    {
+      "basename": "listaSiglas",
+      "path": "01-elementos-pre-textuais/listaSiglas.aux"
+    },
+    {
+      "basename": "listaSimbolos",
+      "path": "01-elementos-pre-textuais/listaSimbolos.tex"
+    },
+    {
+      "basename": "FolhaAprovacao",
+      "path": "01-elementos-pre-textuais/FolhaAprovacao.tex"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "tcc/Untitled 1.base"
+    },
+    {
+      "basename": "Untitled",
+      "path": "tcc/Untitled.base"
+    },
+    {
+      "basename": "main",
+      "path": "tcc/main.canvas"
+    },
+    {
+      "basename": "Athena",
+      "path": "life/Images/Athena.jpg"
+    },
+    {
+      "basename": "Kitty",
+      "path": "life/Images/Kitty.jpg"
+    },
+    {
+      "basename": "pict1_latex4.C",
+      "path": "attachments/pict1_latex4.C.png"
+    },
+    {
+      "basename": "hackerrank",
+      "path": "attachments/hackerrank.py"
+    },
+    {
+      "basename": "LaTeX Cheatsheet",
+      "path": "attachments/LaTeX Cheatsheet.md"
+    },
+    {
+      "basename": "wenclair",
+      "path": "fiction/wenclair.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.canvas"
+    },
+    {
+      "basename": "deepdive_testcode",
+      "path": "deepdive_testcode.py"
+    },
+    {
+      "basename": "juros",
+      "path": "economy/juros.md"
+    },
+    {
+      "basename": "measures",
+      "path": "economy/measures.md"
+    },
+    {
+      "basename": "séries de pagamentos",
+      "path": "economy/séries de pagamentos.md"
+    },
+    {
+      "basename": "capitalização",
+      "path": "economy/capitalização.md"
+    },
+    {
+      "basename": "contratos futuros de juros",
+      "path": "economy/contratos futuros de juros.md"
+    },
+    {
+      "basename": "ndf usdbrl de balcão",
+      "path": "economy/ndf usdbrl de balcão.md"
+    },
+    {
+      "basename": "PQO",
+      "path": "economy/PQO.md"
+    },
+    {
+      "basename": "prob1",
+      "path": "economy/prob1.md"
+    },
+    {
+      "basename": "prob2",
+      "path": "economy/prob2.md"
+    },
+    {
+      "basename": "risk",
+      "path": "economy/risk.md"
+    },
+    {
+      "basename": "fundos",
+      "path": "economy/fundos.md"
+    },
+    {
+      "basename": "Fundamentals of Financial Services",
+      "path": "economy/Fundamentals of Financial Services.md"
+    },
+    {
+      "basename": "stocks",
+      "path": "economy/stocks.md"
+    },
+    {
+      "basename": "fixings",
+      "path": "economy/fixings.md"
+    },
+    {
+      "basename": "DV01",
+      "path": "economy/DV01.md"
+    },
+    {
+      "basename": "Cupom Cambial",
+      "path": "economy/Cupom Cambial.md"
+    },
+    {
+      "basename": "derivatives",
+      "path": "economy/derivatives.md"
+    },
+    {
+      "basename": "short_position_forward",
+      "path": "economy/images/short_position_forward.png"
+    },
+    {
+      "basename": "long_position_forward",
+      "path": "economy/images/long_position_forward.png"
+    },
+    {
+      "basename": "fx",
+      "path": "economy/fx.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
